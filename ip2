@@ -1,0 +1,329 @@
+#EXTM3U
+#EXTINF:-1,Das Erste
+http://77.0.216.254:9981/stream/channelid/2002858990&profile=pass
+#EXTINF:-1,ZDF
+http://77.0.216.254:9981/stream/channelid/1435658357&profile=pass
+#EXTINF:-1,ZDFinfo
+http://77.0.216.254:9981/stream/channelid/905175291&profile=pass
+#EXTINF:-1,zdf_neo
+http://77.0.216.254:9981/stream/channelid/1033091079&profile=pass
+#EXTINF:-1,ONE
+http://77.0.216.254:9981/stream/channelid/1183322731&profile=pass
+#EXTINF:-1,arte
+http://77.0.216.254:9981/stream/channelid/944890309&profile=pass
+#EXTINF:-1,3sat
+http://77.0.216.254:9981/stream/channelid/953094615&profile=pass
+#EXTINF:-1,PHOENIX
+http://77.0.216.254:9981/stream/channelid/1199881691&profile=pass
+#EXTINF:-1,ARD-alpha
+http://77.0.216.254:9981/stream/channelid/1752874137&profile=pass
+#EXTINF:-1,rbb Brandenburg
+http://77.0.216.254:9981/stream/channelid/1697431078&profile=pass
+#EXTINF:-1,NDR FS MV
+http://77.0.216.254:9981/stream/channelid/26935336&profile=pass
+#EXTINF:-1,WDR Köln
+http://77.0.216.254:9981/stream/channelid/1175213324&profile=pass
+#EXTINF:-1,MDR Sachsen
+http://77.0.216.254:9981/stream/channelid/1473324738&profile=pass
+#EXTINF:-1,hr-fernsehen
+http://77.0.216.254:9981/stream/channelid/321151662&profile=pass
+#EXTINF:-1,SWR Fernsehen RP
+http://77.0.216.254:9981/stream/channelid/1058534563&profile=pass
+#EXTINF:-1,BR Fernsehen Süd
+http://77.0.216.254:9981/stream/channelid/2068030572&profile=pass
+#EXTINF:-1,tagesschau24
+http://77.0.216.254:9981/stream/channelid/1668569958&profile=pass
+#EXTINF:-1,KiKA
+http://77.0.216.254:9981/stream/channelid/887350854&profile=pass
+#EXTINF:-1,Das Erste HD
+http://77.0.216.254:9981/stream/channelid/192668933&profile=pass
+#EXTINF:-1,ZDF HD
+http://77.0.216.254:9981/stream/channelid/1116608429&profile=pass
+#EXTINF:-1,ZDFinfo HD
+http://77.0.216.254:9981/stream/channelid/1733734846&profile=pass
+#EXTINF:-1,zdf_neo HD
+http://77.0.216.254:9981/stream/channelid/1461578811&profile=pass
+#EXTINF:-1,ONE HD
+http://77.0.216.254:9981/stream/channelid/1219188520&profile=pass
+#EXTINF:-1,arte HD
+http://77.0.216.254:9981/stream/channelid/1316332824&profile=pass
+#EXTINF:-1,3sat HD
+http://77.0.216.254:9981/stream/channelid/998446806&profile=pass
+#EXTINF:-1,PHOENIX HD
+http://77.0.216.254:9981/stream/channelid/233226398&profile=pass
+#EXTINF:-1,rbb Berlin HD
+http://77.0.216.254:9981/stream/channelid/1319265639&profile=pass
+#EXTINF:-1,NDR FS HH HD
+http://77.0.216.254:9981/stream/channelid/786201724&profile=pass
+#EXTINF:-1,WDR HD Köln
+http://77.0.216.254:9981/stream/channelid/683391369&profile=pass
+#EXTINF:-1,MDR Sachsen HD
+http://77.0.216.254:9981/stream/channelid/20724956&profile=pass
+#EXTINF:-1,hr-fernsehen HD
+http://77.0.216.254:9981/stream/channelid/886078579&profile=pass
+#EXTINF:-1,rbb Brandenburg HD
+http://77.0.216.254:9981/stream/channelid/253131223&profile=pass
+#EXTINF:-1,SWR RP HD
+http://77.0.216.254:9981/stream/channelid/2053964874&profile=pass
+#EXTINF:-1,BR Fernsehen Süd HD
+http://77.0.216.254:9981/stream/channelid/1822619839&profile=pass
+#EXTINF:-1,KiKA HD
+http://77.0.216.254:9981/stream/channelid/43326535&profile=pass
+#EXTINF:-1,ServusTV
+http://77.0.216.254:9981/stream/channelid/938636583&profile=pass
+#EXTINF:-1,TELE 5
+http://77.0.216.254:9981/stream/channelid/851085922&profile=pass
+#EXTINF:-1,DMAX
+http://77.0.216.254:9981/stream/channelid/1168427972&profile=pass
+#EXTINF:-1,sixx
+http://77.0.216.254:9981/stream/channelid/1219406753&profile=pass
+#EXTINF:-1,ProSieben
+http://77.0.216.254:9981/stream/channelid/1286765259&profile=pass
+#EXTINF:-1,ProSieben MAXX
+http://77.0.216.254:9981/stream/channelid/1205870216&profile=pass
+#EXTINF:-1,SAT.1
+http://77.0.216.254:9981/stream/channelid/1012705257&profile=pass
+#EXTINF:-1,RTL
+http://77.0.216.254:9981/stream/channelid/1382932221&profile=pass
+#EXTINF:-1,RTL II
+http://77.0.216.254:9981/stream/channelid/1208406835&profile=pass
+#EXTINF:-1,SUPER RTL
+http://77.0.216.254:9981/stream/channelid/479351778&profile=pass
+#EXTINF:-1,kabel eins
+http://77.0.216.254:9981/stream/channelid/605530529&profile=pass
+#EXTINF:-1,SAT.1 Gold
+http://77.0.216.254:9981/stream/channelid/92411154&profile=pass
+#EXTINF:-1,TLC
+http://77.0.216.254:9981/stream/channelid/213825431&profile=pass
+#EXTINF:-1,COMEDY CENTRAL/VIVA
+http://77.0.216.254:9981/stream/channelid/659500203&profile=pass
+#EXTINF:-1,eoTV
+http://77.0.216.254:9981/stream/channelid/1239540207&profile=pass
+#EXTINF:-1,RTLplus
+http://77.0.216.254:9981/stream/channelid/1523750251&profile=pass
+#EXTINF:-1,RTL Radio
+http://77.0.216.254:9981/stream/channelid/2000516144&profile=pass
+#EXTINF:-1,Disney Channel
+http://77.0.216.254:9981/stream/channelid/1090454201&profile=pass
+#EXTINF:-1,COMEDY CENTRAL/VIVA
+http://77.0.216.254:9981/stream/channelid/1011226974&profile=pass
+#EXTINF:-1,N/A
+http://77.0.216.254:9981/stream/channelid/934190868&profile=pass
+#EXTINF:-1,ANIXE SD
+http://77.0.216.254:9981/stream/channelid/803635353&profile=pass
+#EXTINF:-1,NITRO
+http://77.0.216.254:9981/stream/channelid/2004024278&profile=pass
+#EXTINF:-1,TOGGO plus
+http://77.0.216.254:9981/stream/channelid/1984550455&profile=pass
+#EXTINF:-1,Welt der Wunder TV
+http://77.0.216.254:9981/stream/channelid/643327948&profile=pass
+#EXTINF:-1,Nick
+http://77.0.216.254:9981/stream/channelid/345728049&profile=pass
+#EXTINF:-1,WELT
+http://77.0.216.254:9981/stream/channelid/242844855&profile=pass
+#EXTINF:-1,kabel eins Doku
+http://77.0.216.254:9981/stream/channelid/315947772&profile=pass
+#EXTINF:-1,n-tv
+http://77.0.216.254:9981/stream/channelid/1204312013&profile=pass
+#EXTINF:-1,TVLU
+http://77.0.216.254:9981/stream/channelid/1368360095&profile=pass
+#EXTINF:-1,VOX
+http://77.0.216.254:9981/stream/channelid/1376709684&profile=pass
+#EXTINF:-1,Al Jazeera Int (eng)
+http://77.0.216.254:9981/stream/channelid/1502624509&profile=pass
+#EXTINF:-1,SONLife (eng)
+http://77.0.216.254:9981/stream/channelid/1751646969&profile=pass
+#EXTINF:-1,TELTOWKANAL
+http://77.0.216.254:9981/stream/channelid/492900053&profile=pass
+#EXTINF:-1,POTSDAMTV
+http://77.0.216.254:9981/stream/channelid/937004275&profile=pass
+#EXTINF:-1,N24 Doku
+http://77.0.216.254:9981/stream/channelid/2004068201&profile=pass
+#EXTINF:-1,BBC World News (eng)
+http://77.0.216.254:9981/stream/channelid/2020315588&profile=pass
+#EXTINF:-1,Sky Sport News
+http://77.0.216.254:9981/stream/channelid/1926851354&profile=pass
+#EXTINF:-1,health tv
+http://77.0.216.254:9981/stream/channelid/1206129278&profile=pass
+#EXTINF:-1,Deutsches Musik Fernsehen
+http://77.0.216.254:9981/stream/channelid/1028614276&profile=pass
+#EXTINF:-1,Eurosport 1
+http://77.0.216.254:9981/stream/channelid/706326022&profile=pass
+#EXTINF:-1,TV BERLIN
+http://77.0.216.254:9981/stream/channelid/373410440&profile=pass
+#EXTINF:-1,TV 5 Monde (fre)
+http://77.0.216.254:9981/stream/channelid/447102013&profile=pass
+#EXTINF:-1,SPORT1
+http://77.0.216.254:9981/stream/channelid/303766053&profile=pass
+#EXTINF:-1,DELUXE MUSIC
+http://77.0.216.254:9981/stream/channelid/63576020&profile=pass
+#EXTINF:-1,radioeins
+http://77.0.216.254:9981/stream/channelid/1811407605&profile=pass
+#EXTINF:-1,Fritz
+http://77.0.216.254:9981/stream/channelid/1566129388&profile=pass
+#EXTINF:-1,Dlf
+http://77.0.216.254:9981/stream/channelid/1078280400&profile=pass
+#EXTINF:-1,Dlf Kultur
+http://77.0.216.254:9981/stream/channelid/1617009469&profile=pass
+#EXTINF:-1,Dlf Nova
+http://77.0.216.254:9981/stream/channelid/1411323069&profile=pass
+#EXTINF:-1,Kulturradio
+http://77.0.216.254:9981/stream/channelid/452209049&profile=pass
+#EXTINF:-1,Klassik Radio
+http://77.0.216.254:9981/stream/channelid/1090602558&profile=pass
+#EXTINF:-1,MDR AKTUELL
+http://77.0.216.254:9981/stream/channelid/1500402543&profile=pass
+#EXTINF:-1,MDR JUMP
+http://77.0.216.254:9981/stream/channelid/592811308&profile=pass
+#EXTINF:-1,MDR KLASSIK
+http://77.0.216.254:9981/stream/channelid/983175782&profile=pass
+#EXTINF:-1,MDR KULTUR
+http://77.0.216.254:9981/stream/channelid/1107870083&profile=pass
+#EXTINF:-1,MDR S-ANHALT MD
+http://77.0.216.254:9981/stream/channelid/365046942&profile=pass
+#EXTINF:-1,MDR SACHSEN DD
+http://77.0.216.254:9981/stream/channelid/592316887&profile=pass
+#EXTINF:-1,MDR THÜRINGEN EF
+http://77.0.216.254:9981/stream/channelid/904403897&profile=pass
+#EXTINF:-1,NDR 1 Nieders. HAN
+http://77.0.216.254:9981/stream/channelid/53059081&profile=pass
+#EXTINF:-1,NDR 1 Radio MV SN
+http://77.0.216.254:9981/stream/channelid/535043556&profile=pass
+#EXTINF:-1,NDR 2 NDS
+http://77.0.216.254:9981/stream/channelid/477002625&profile=pass
+#EXTINF:-1,3
+http://77.0.216.254:9981/stream/channelid/861803763&profile=pass
+#EXTINF:-1,NDR Info NDS
+http://77.0.216.254:9981/stream/channelid/1541392913&profile=pass
+#EXTINF:-1,NDR Info Spez.
+http://77.0.216.254:9981/stream/channelid/77692245&profile=pass
+#EXTINF:-1,NDR Kultur
+http://77.0.216.254:9981/stream/channelid/1667154626&profile=pass
+#EXTINF:-1,NDR1 Welle Nord KI
+http://77.0.216.254:9981/stream/channelid/1816265567&profile=pass
+#EXTINF:-1,SR 1 Europawelle
+http://77.0.216.254:9981/stream/channelid/887542721&profile=pass
+#EXTINF:-1,SR 2 KulturRadio
+http://77.0.216.254:9981/stream/channelid/1838182719&profile=pass
+#EXTINF:-1,SR 3 Saarlandwelle
+http://77.0.216.254:9981/stream/channelid/938468618&profile=pass
+#EXTINF:-1,SR Fernsehen
+http://77.0.216.254:9981/stream/channelid/1240731002&profile=pass
+#EXTINF:-1,89.2 Radio Potsdam
+http://77.0.216.254:9981/stream/channelid/1939202704&profile=pass
+#EXTINF:-1,Bayern 1
+http://77.0.216.254:9981/stream/channelid/44490953&profile=pass
+#EXTINF:-1,PULS
+http://77.0.216.254:9981/stream/channelid/73137366&profile=pass
+#EXTINF:-1,WDR 3
+http://77.0.216.254:9981/stream/channelid/156486119&profile=pass
+#EXTINF:-1,DASDING
+http://77.0.216.254:9981/stream/channelid/225937823&profile=pass
+#EXTINF:-1,Radio Energy Berlin
+http://77.0.216.254:9981/stream/channelid/226269917&profile=pass
+#EXTINF:-1,1LIVE
+http://77.0.216.254:9981/stream/channelid/239472214&profile=pass
+#EXTINF:-1,SWR3
+http://77.0.216.254:9981/stream/channelid/243500778&profile=pass
+#EXTINF:-1,Berliner Rundfunk
+http://77.0.216.254:9981/stream/channelid/456057964&profile=pass
+#EXTINF:-1,radioB2 SCHLAGER
+http://77.0.216.254:9981/stream/channelid/493028843&profile=pass
+#EXTINF:-1,hr1
+http://77.0.216.254:9981/stream/channelid/535515111&profile=pass
+#EXTINF:-1,Bremen Eins
+http://77.0.216.254:9981/stream/channelid/542396682&profile=pass
+#EXTINF:-1,SWR4 RP
+http://77.0.216.254:9981/stream/channelid/581158775&profile=pass
+#EXTINF:-1,WDR 5
+http://77.0.216.254:9981/stream/channelid/628072697&profile=pass
+#EXTINF:-1,SWR1 RP
+http://77.0.216.254:9981/stream/channelid/640956218&profile=pass
+#EXTINF:-1,Melodie TV
+http://77.0.216.254:9981/stream/channelid/677325167&profile=pass
+#EXTINF:-1,SWR1 BW
+http://77.0.216.254:9981/stream/channelid/709314721&profile=pass
+#EXTINF:-1,N-JOY
+http://77.0.216.254:9981/stream/channelid/752488552&profile=pass
+#EXTINF:-1,8
+http://77.0.216.254:9981/stream/channelid/810177648&profile=pass
+#EXTINF:-1,BAYERN plus
+http://77.0.216.254:9981/stream/channelid/867748372&profile=pass
+#EXTINF:-1,radio B2 Schlager
+http://77.0.216.254:9981/stream/channelid/896059240&profile=pass
+#EXTINF:-1,COSMO
+http://77.0.216.254:9981/stream/channelid/942786036&profile=pass
+#EXTINF:-1,SWR4 BW
+http://77.0.216.254:9981/stream/channelid/950444480&profile=pass
+#EXTINF:-1,104.6 RTL Berlin
+http://77.0.216.254:9981/stream/channelid/967752799&profile=pass
+#EXTINF:-1,BB Radio Havelland
+http://77.0.216.254:9981/stream/channelid/300058631&profile=pass
+#EXTINF:-1,Radio Horeb
+http://77.0.216.254:9981/stream/channelid/464484778&profile=pass
+#EXTINF:-1,KISS FM
+http://77.0.216.254:9981/stream/channelid/908701140&profile=pass
+#EXTINF:-1,Antenne Brandenburg
+http://77.0.216.254:9981/stream/channelid/992791855&profile=pass
+#EXTINF:-1,WDR 4
+http://77.0.216.254:9981/stream/channelid/1147542192&profile=pass
+#EXTINF:-1,YOU FM
+http://77.0.216.254:9981/stream/channelid/1206134269&profile=pass
+#EXTINF:-1,hr-iNFO
+http://77.0.216.254:9981/stream/channelid/1276430171&profile=pass
+#EXTINF:-1,CNN (eng)
+http://77.0.216.254:9981/stream/channelid/1291507911&profile=pass
+#EXTINF:-1,B5 aktuell
+http://77.0.216.254:9981/stream/channelid/1294829101&profile=pass
+#EXTINF:-1,1LIVE diGGi
+http://77.0.216.254:9981/stream/channelid/1405942079&profile=pass
+#EXTINF:-1,hr2
+http://77.0.216.254:9981/stream/channelid/1432651243&profile=pass
+#EXTINF:-1,Radio Paloma
+http://77.0.216.254:9981/stream/channelid/1493327555&profile=pass
+#EXTINF:-1,WDR 2 Rheinland
+http://77.0.216.254:9981/stream/channelid/1672283866&profile=pass
+#EXTINF:-1,Inforadio
+http://77.0.216.254:9981/stream/channelid/1695588668&profile=pass
+#EXTINF:-1,94 3 r.s.2
+http://77.0.216.254:9981/stream/channelid/1707722221&profile=pass
+#EXTINF:-1,B5 plus
+http://77.0.216.254:9981/stream/channelid/1739847744&profile=pass
+#EXTINF:-1,BR-KLASSIK
+http://77.0.216.254:9981/stream/channelid/1758755350&profile=pass
+#EXTINF:-1,Bremen Vier
+http://77.0.216.254:9981/stream/channelid/1854775720&profile=pass
+#EXTINF:-1,hr4
+http://77.0.216.254:9981/stream/channelid/1866522897&profile=pass
+#EXTINF:-1,BAYERN 3
+http://77.0.216.254:9981/stream/channelid/1880925340&profile=pass
+#EXTINF:-1,Bayern 2
+http://77.0.216.254:9981/stream/channelid/1938907689&profile=pass
+#EXTINF:-1,WDR Event
+http://77.0.216.254:9981/stream/channelid/1952431620&profile=pass
+#EXTINF:-1,Radio France Inter (fre)
+http://77.0.216.254:9981/stream/channelid/2004908539&profile=pass
+#EXTINF:-1,MEGA Radio
+http://77.0.216.254:9981/stream/channelid/2013306070&profile=pass
+#EXTINF:-1,Bremen Zwei
+http://77.0.216.254:9981/stream/channelid/2041667339&profile=pass
+#EXTINF:-1,SWR2
+http://77.0.216.254:9981/stream/channelid/2066332146&profile=pass
+#EXTINF:-1,hr3
+http://77.0.216.254:9981/stream/channelid/2079307690&profile=pass
+#EXTINF:-1,Spreeradio
+http://77.0.216.254:9981/stream/channelid/2085114186&profile=pass
+#EXTINF:-1,SWR Aktuell
+http://77.0.216.254:9981/stream/channelid/2111152890&profile=pass
+#EXTINF:-1,antenne Saar
+http://77.0.216.254:9981/stream/channelid/2135299794&profile=pass
+#EXTINF:-1,Radio Proton 32k
+http://77.0.216.254:9981/stream/channelid/344804139&profile=pass
+#EXTINF:-1,Radio Proton 64k
+http://77.0.216.254:9981/stream/channelid/1343015905&profile=pass
+#EXTINF:-1,Radio Proton 128k
+http://77.0.216.254:9981/stream/channelid/633904400&profile=pass
+#EXTINF:-1,Protonopus
+http://77.0.216.254:9981/stream/channelid/1253869419&profile=pass
+#EXTINF:-1,radioeins
+http://77.0.216.254:9981/stream/channelid/1310255403&profile=pass
