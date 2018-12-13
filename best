@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="***** UNTERHALTUNG *****" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/SmartSeyirHD.png" group-title="DE: UNTERHALTUNG",***** UNTERHALTUNG *****
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/155
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE HD / ARD HD" tvg-logo="http://51.15.6.173:2013/1/ercan-picon/picon/ard.png" group-title="DE: UNTERHALTUNG",DE: DAS ERSTE HD / ARD HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/125
 #EXTINF:-1 tvg-id="ZDF DE" tvg-name="DE: ZDF HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/zdf.png" group-title="DE: UNTERHALTUNG",DE: ZDF HD
@@ -75,8 +73,6 @@ http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/75
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/76
 #EXTINF:-1 tvg-id="Zee One DE" tvg-name="DE: ZEE ONE HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/zeeonehd.png" group-title="DE: UNTERHALTUNG",DE: ZEE ONE HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/801
-#EXTINF:-1 tvg-id="" tvg-name="***** SPORT *****" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/SmartSeyirHD.png" group-title="DE: SPORT",***** SPORT *****
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/512
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 BAR HD" tvg-logo="" group-title="DE: SPORT",DE: DAZN 1 BAR HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/7933
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 BAR HD" tvg-logo="" group-title="DE: SPORT",DE: DAZN 2 BAR HD
@@ -153,8 +149,6 @@ http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/16433
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/16434
 #EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUSSBALL 8" tvg-logo="http://51.15.6.173:2013/1/ercan-picon/picon/" group-title="DE: SPORT",DE: TELEKOM FUSSBALL 8
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/16435
-#EXTINF:-1 tvg-id="" tvg-name="**** KINO *****" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/SmartSeyirHD.png" group-title="DE: KINO",**** KINO *****
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/511
 #EXTINF:-1 tvg-id="" tvg-name="DE: TELECLUB CINEMA HD" tvg-logo="" group-title="DE: KINO",DE: TELECLUB CINEMA HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/16201
 #EXTINF:-1 tvg-id="" tvg-name="DE: TELECLUB PRIME HD" tvg-logo="" group-title="DE: KINO",DE: TELECLUB PRIME HD
@@ -217,8 +211,6 @@ http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/9586
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/9585
 #EXTINF:-1 tvg-id="" tvg-name="DE: KINO BOX 12 HD" tvg-logo="" group-title="DE: KINO",DE: KINO BOX 12 HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/9584
-#EXTINF:-1 tvg-id="" tvg-name="***** NACHRICHTEN / INFO *****" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/SmartSeyirHD.png" group-title="DE: NACHRICHTEN / INFO",***** NACHRICHTEN / INFO *****
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/513
 #EXTINF:-1 tvg-id="ZDFinfo DE" tvg-name="DE: ZDF INFO HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/zdfinfo.png" group-title="DE: NACHRICHTEN / INFO",DE: ZDF INFO HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/74
 #EXTINF:-1 tvg-id="n-tv DE" tvg-name="DE: N-TV HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/n-tv.png" group-title="DE: NACHRICHTEN / INFO",DE: N-TV HD
@@ -235,8 +227,6 @@ https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/75
 #EXTINF:-1 tvg-id="arte DE" tvg-name="DE: ARTE HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/arte.png" group-title="DE: NACHRICHTEN / INFO",DE: ARTE HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/126
-#EXTINF:-1 tvg-id="" tvg-name="***** DOKUMANTATION *****" tvg-logo="http://havuz.mine.nu:4556/VoLkAn-ErCaN/SmartSeyirHD.png" group-title="DE: DOKUMENTATION",***** DOKUMANTATION *****
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/514
 #EXTINF:-1 tvg-id="National Geographic DE" tvg-name="DE: NAT GEOGRAPHIC HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/natgeo.png" group-title="DE: DOKUMENTATION",DE: NAT GEOGRAPHIC HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/89
 #EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="DE: NAT GEO WILD HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/natwild.png" group-title="DE: DOKUMENTATION",DE: NAT GEO WILD HD
@@ -245,16 +235,12 @@ http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/90
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/91
 #EXTINF:-1 tvg-id="History DE" tvg-name="DE: HISTORY HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/history.png" group-title="DE: DOKUMENTATION",DE: HISTORY HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/88
-#EXTINF:-1 tvg-id="" tvg-name="DE: AUTO MOTOR SPORT HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/SmartSeyirHD.png" group-title="DE: DOKUMENTATION",DE: AUTO MOTOR SPORT HD
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/2913
 #EXTINF:-1 tvg-id="AandE DE" tvg-name="DE: A&E HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/a&e.png" group-title="DE: UNTERHALTUNG",DE: A&E HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/100
 #EXTINF:-1 tvg-id="kabel eins Doku DE" tvg-name="DE: KABEL 1 DOKU HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/kabel1doku.png" group-title="DE: DOKUMENTATION",DE: KABEL 1 DOKU HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/128
 #EXTINF:-1 tvg-id="DMAX DE" tvg-name="DE: DMAX HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/dmax.png" group-title="DE: DOKUMENTATION",DE: DMAX HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/93
-#EXTINF:-1 tvg-id="" tvg-name="***** KINDER *****" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/SmartSeyirHD.png" group-title="DE: KINDER",***** KINDER *****
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/515
 #EXTINF:-1 tvg-id="Disney Channel DE" tvg-name="DE: DISNEY CHANNEL HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/disneychannel.png" group-title="DE: KINDER",DE: DISNEY CHANNEL HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/82
 #EXTINF:-1 tvg-id="Disney Cinemagic DE" tvg-name="DE: DISNEY CINEMAGIC HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/disneycinemagic.png" group-title="DE: KINDER",DE: DISNEY CINEMAGIC HD
@@ -271,8 +257,6 @@ http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/80
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/79
 #EXTINF:-1 tvg-id="KiKa DE" tvg-name="DE: KIKA HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/kika.png" group-title="DE: KINDER",DE: KIKA HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/86
-#EXTINF:-1 tvg-id="" tvg-name="***** MUSIK *****" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/SmartSeyirHD.png" group-title="DE: MUSIK",***** MUSIK *****
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/516
 #EXTINF:-1 tvg-id="" tvg-name="DE: MTV HD" tvg-logo="http://webcam8.mine.nu:1903/VoLkAn-ErCaN/SmartSeyirHD.png" group-title="DE: MUSIK",DE: MTV HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/2982
 #EXTINF:-1 tvg-id="" tvg-name="DE: MTV HITS HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/nrjtv.png" group-title="DE: MUSIK",DE: MTV HITS HD
@@ -285,8 +269,6 @@ http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/16210
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/16211
 #EXTINF:-1 tvg-id="" tvg-name="DE: XITE HD" tvg-logo="" group-title="DE: MUSIK",DE: XITE HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/16212
-#EXTINF:-1 tvg-id="" tvg-name="***** WORLD SPORT *****" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/SmartSeyirHD.png" group-title="WORLDSPORT (All Languages)",***** WORLD SPORT *****
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/517
 #EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="FR: beIN SPORTS 1 HD" tvg-logo="" group-title="WORLDSPORT (All Languages)",FR: beIN SPORTS 1 HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/38
 #EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="FR: beIN SPORTS 2 HD" tvg-logo="" group-title="WORLDSPORT (All Languages)",FR: beIN SPORTS 2 HD
