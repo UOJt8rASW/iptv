@@ -1410,6 +1410,16 @@ http://server.internext.tv:8080/gaurav/gaurav123/36426
 http://server.internext.tv:8080/gaurav/gaurav123/7747
 #EXTINF:-1,group-title="UK SPORTS", SKY SPORTS FOOTBALL HD
 http://server.internext.tv:8080/gaurav/gaurav123/7756
+#EXTINF:-1,group-title="UK SPORTS", ITV 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3239
+#EXTINF:-1,group-title="UK SPORTS", ITV 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3240
+#EXTINF:-1,group-title="UK SPORTS", ITV 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3241
+#EXTINF:-1,group-title="UK SPORTS", ITV 4 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3242
+
+
 
 
 
