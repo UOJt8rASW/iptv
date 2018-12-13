@@ -231,9 +231,9 @@ https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/index_1496_av-p.m3u8
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="DE: NACHRICHTEN / INFO" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="3sat DE" tvg-name="DE: 3 SAT HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/3sathd.png" group-title="DE: UNTERHALTUNG",DE: 3 SAT HD
+#EXTINF:-1 tvg-id="3sat DE" tvg-name="DE: 3 SAT HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/3sathd.png" group-title="DE: NACHRICHTEN / INFO",DE: 3 SAT HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/75
-#EXTINF:-1 tvg-id="arte DE" tvg-name="DE: ARTE HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/arte.png" group-title="DE: UNTERHALTUNG",DE: ARTE HD
+#EXTINF:-1 tvg-id="arte DE" tvg-name="DE: ARTE HD" tvg-logo="http://havuz.mine.nu:1999/VoLkAn-ErCaN/ercan-picon/picon/arte.png" group-title="DE: NACHRICHTEN / INFO",DE: ARTE HD
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/126
 #EXTINF:-1 tvg-id="" tvg-name="***** DOKUMANTATION *****" tvg-logo="http://havuz.mine.nu:4556/VoLkAn-ErCaN/SmartSeyirHD.png" group-title="DE: DOKUMENTATION",***** DOKUMANTATION *****
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/514
