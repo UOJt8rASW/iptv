@@ -1727,3 +1727,37 @@ https://www.djing.com/tv/underground.m3u8
 http://www.djing.com/tv/session_wild-edm.m3u8
 #EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-id="ServusTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD (AT)
 http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,TVE La 2 group-title="Spanien"
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1,TVE La1 group-title="Spanien"
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
+#EXTINF:-1,TELEMADRID group-title="Spanien"
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,LA OTRA group-title="Spanien"
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1,LA 1 HD group-title="Spanien"
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1ca_lv3_aosv4_gl7/la1ca_lv3_aosv4_gl7.isml/la1ca_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
+#EXTINF:-1,SP:La 2 group-title="Spanien"
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.mpd
+#EXTINF:-1,TVE 24H group-title="Spanien"
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1,La 2 group-title="Spanien"
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+#EXTINF:-1,TVE group-title="Spanien"
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_0400_av-p.m3u8
+#EXTINF:-1,RTVE group-title="Spanien"
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8
+#EXTINF:-1,RTVE 24 H group-title="Spanien"
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8
+
+
+
