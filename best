@@ -2911,23 +2911,7 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8607.ts
 #EXTINF:-1,======== SKY SPORT ========
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8552.ts
 
-
-
-#EXTM3U
-#EXT-X-ALLOW-CACHE:NO
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:589
-#EXTINF:11,
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://goldenarrowschannel.info/Images/LOGO%20TYBE.jpg",GoldenArrowsChannel
-media_589.ts?id=33210&wowzasessionid=3318029552&pk=3b0aa2d17478c3086e680d4207e98f44c782f8836bf425585755b58bc7ac6228
-#EXTINF:10,
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://goldenarrowschannel.info/Images/LOGO%20TYBE.jpg",GoldenArrowsChannel
-media_590.ts?id=33210&wowzasessionid=3318029552&pk=3b0aa2d17478c3086e680d4207e98f44c782f8836bf425585755b58bc7ac6228
-#EXTINF:12,
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://goldenarrowschannel.info/Images/LOGO%20TYBE.jpg",GoldenArrowsChannel
-media_591.ts?id=33210&wowzasessionid=3318029552&pk=3b0aa2d17478c3086e680d4207e98f44c782f8836bf425585755b58bc7ac6228
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://goldenarrowschannel.info/Images/LOGO%20TYBE.jpg",GoldenArrowsChannel
+#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://goldenarrowschannel.info/Images/LOGO%20TYBE.jpg",GoldenArrowsChannel Stream 1
 https://109.liveflashplayer.org:8088/stream/GoldenArrowsChannel/playlist.m3u8?id=33210&wowzasessionid=3318029552&pk=3b0aa2d17478c3086e680d4207e98f44c782f8836bf425585755b58bc7ac6228
 
 
