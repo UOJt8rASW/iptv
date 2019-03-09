@@ -310,11 +310,10 @@ https://022-219.sport365.tech:43911/ls/a72078234d05874ac40f740f696bdea4e463d4d21
 https://1404752763.rsc.cdn77.org/FjpiZ7d9aLU5IGbE-eksNw==,1546384378/ls-45420-1/index.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="https://www.sky.de/static/img/select/sky_17-08_select_sporttickets_teaser_1buli.jpg",BuLi Konferenz
-http://live.mypeercast.com/hls/h7OAXNTIaFiZ/index.m3u8?st=pa_CXVtoLiR4dgLCl4Em2Q&e=1549135710
+http://87.120.36.32:8080/hls/streama83537/index.m3u8?st=AQ0vmz475tzfWIk37ehqEg
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="https://www.sky.de/static/img/select/sky_17-08_select_sporttickets_teaser_1buli.jpg",BuLi Konferenz 2
-http://ul01.cdn574.net:8080/hls/k4ih6e.m3u8?s=bYGp9DvWNFZX3NteDEnnow&e=1549138581
-
+http://87.120.36.32:8080/hls/streama83537/index.m3u8?st=AQ0vmz475tzfWIk37ehqEg
 
 
 
