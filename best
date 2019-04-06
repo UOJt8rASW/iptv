@@ -309,6 +309,9 @@ http://live.mypeercast.com/hls/xXCGuzNHAJ8g/index.m3u8?st=FVi8Gsif24H0OX0ULThHuQ
 http://tv.jantv.live/tv/P4eBCUWa7p20180321/playlist.m3u8?hlsendtime=1554570120&hlsstarttime=0&hlshash=4pJGoP2zW0bKeJ-00fhh7USS6o8RWjSjGrbI9qmlYNE=
 
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://cdn.livetvcdn.net/img/logo_de.jpg", Bayern vs. BVB 2
+https://ul.cdn574.net:8443/hls/mmtlxf4p65cuxdk.m3u8?s=KRUHwtTxNSXAesubBsE4Yg&e=1554589000
+
 #EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="https://s2.imagebanana.com/file/181227/thb/nOeXfr2q.jpg",Sport365.live Stream 1
 https://022-219.sport365.tech:43911/ls/a72078234d05874ac40f740f696bdea4e463d4d21b195702bcb25d959e943552/1548577802/5c4c3160afba1786719327/stc4cr85p6o9p9p7m34o335h91/5c4d6c405f52b/index.m3u8
 
