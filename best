@@ -303,8 +303,8 @@ https://114.liveflashplayer.org:8088/stream/GoldenArrowsChannel/playlist.m3u8?id
 #EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://cdn.livetvcdn.net/img/logo_de.jpg", Sky Sport 2 livetv.sx
 http://live.mypeercast.com/hls/xXCGuzNHAJ8g/index.m3u8?st=FVi8Gsif24H0OX0ULThHuQ&e=1552526667
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://cdn.livetvcdn.net/img/logo_de.jpg", Bayern vs. Liverpool reddit
-http://sovkbilen.azureedge.net/v/playlist.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://cdn.livetvcdn.net/img/logo_de.jpg", Bayern vs. BVB
+https://p03.quest123.top:8088/live/socolive20077hd/playlist.m3u8?id=107990&pk=3b0aa2d17478c3086e680d4207e98f44c782f8836bf425585755b58bc7ac6228
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="https://s2.imagebanana.com/file/181227/thb/nOeXfr2q.jpg",Sport365.live Stream 1
 https://022-219.sport365.tech:43911/ls/a72078234d05874ac40f740f696bdea4e463d4d21b195702bcb25d959e943552/1548577802/5c4c3160afba1786719327/stc4cr85p6o9p9p7m34o335h91/5c4d6c405f52b/index.m3u8
