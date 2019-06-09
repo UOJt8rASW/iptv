@@ -298,7 +298,7 @@ http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://goldenarrowschannel.info/Images/LOGO%20TYBE.jpg",Golden Arrows Channel
-https://114.liveflashplayer.org:8088/stream/GoldenArrowsChannel/playlist.m3u8?id=33210&wowzasessionid=3335976175&pk=3b0aa2d17478c3086e680d4207e98f44c782f8836bf425585755b58bc7ac6228
+https://106.liveflashplayer.org:8088/stream/GoldenArrowsChannel/playlist.m3u8?id=33210&wowzasessionid=550596565&pk=2554d2b843f320e085efc8686bb7b94d2dd115e48b9d753f3494d77dd18d1529
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://cdn.livetvcdn.net/img/logo_de.jpg", Sky Sport 2 livetv.sx
