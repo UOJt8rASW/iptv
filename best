@@ -297,30 +297,11 @@ http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
 
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://goldenarrowschannel.info/Images/LOGO%20TYBE.jpg",Golden Arrows Channel
+#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Sport Streams" tvg-logo="http://goldenarrowschannel.info/Images/LOGO%20TYBE.jpg",Golden Arrows Channel
 https://106.liveflashplayer.org:8088/stream/GoldenArrowsChannel/playlist.m3u8?id=33210&wowzasessionid=550596565&pk=2554d2b843f320e085efc8686bb7b94d2dd115e48b9d753f3494d77dd18d1529
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://cdn.livetvcdn.net/img/logo_de.jpg", Sky Sport 2 livetv.sx
-http://live.mypeercast.com/hls/xXCGuzNHAJ8g/index.m3u8?st=FVi8Gsif24H0OX0ULThHuQ&e=1552526667
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://cdn.livetvcdn.net/img/logo_de.jpg", Bayern vs. BVB
-http://tv.jantv.live/tv/P4eBCUWa7p20180321/playlist.m3u8?hlsendtime=1554570120&hlsstarttime=0&hlshash=4pJGoP2zW0bKeJ-00fhh7USS6o8RWjSjGrbI9qmlYNE=
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="http://cdn.livetvcdn.net/img/logo_de.jpg", Bayern vs. BVB 2
-https://ul.cdn574.net:8443/hls/mmtlxf4p65cuxdk.m3u8?s=KRUHwtTxNSXAesubBsE4Yg&e=1554589000
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="https://s2.imagebanana.com/file/181227/thb/nOeXfr2q.jpg",Sport365.live Stream 1
-https://022-219.sport365.tech:43911/ls/a72078234d05874ac40f740f696bdea4e463d4d21b195702bcb25d959e943552/1548577802/5c4c3160afba1786719327/stc4cr85p6o9p9p7m34o335h91/5c4d6c405f52b/index.m3u8
-
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="https://reshape.sport1.de/unsafe/1200x630/smart/https://www.sport1.de/bundles/sport1portal/images/sport1-default-og.jpg",Sport1
-https://1404752763.rsc.cdn77.org/FjpiZ7d9aLU5IGbE-eksNw==,1546384378/ls-45420-1/index.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Darts" tvg-logo="https://5.imimg.com/data5/MW/GB/MY-6897438/red-leather-cricket-ball-500x500.jpg",Batmanstream Flash m3u8 Cricket
+#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Sport Streams" tvg-logo="https://5.imimg.com/data5/MW/GB/MY-6897438/red-leather-cricket-ball-500x500.jpg",Batmanstream Flash m3u8 Cricket
 http://ul.cdn946.net:8080/hls/waqq3o4.m3u8?s=wN_t6E73_1qjKdP5Dc3ofA&e=1560356011
 
 
