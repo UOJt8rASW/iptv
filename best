@@ -297,11 +297,10 @@ http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
 
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Sport Streams" tvg-logo="http://goldenarrowschannel.info/Images/LOGO%20TYBE.jpg",Golden Arrows Channel
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="http://goldenarrowschannel.info/Images/LOGO%20TYBE.jpg",Golden Arrows Channel
 https://106.liveflashplayer.org:8088/stream/GoldenArrowsChannel/playlist.m3u8?id=33210&wowzasessionid=550596565&pk=2554d2b843f320e085efc8686bb7b94d2dd115e48b9d753f3494d77dd18d1529
 
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="GAC" group-title="Sport Streams" tvg-logo="https://5.imimg.com/data5/MW/GB/MY-6897438/red-leather-cricket-ball-500x500.jpg",Batmanstream Flash m3u8 Cricket
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://5.imimg.com/data5/MW/GB/MY-6897438/red-leather-cricket-ball-500x500.jpg",Batmanstream Flash m3u8 Cricket
 http://ul.cdn946.net:8080/hls/waqq3o4.m3u8?s=wN_t6E73_1qjKdP5Dc3ofA&e=1560356011
 
 
