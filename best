@@ -298,6 +298,17 @@ https://104.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="http://goldenarrowschannel.info/Images/LOGO%20TYBE.jpg",Stream2Watch Darts
 https://ul.cdn946.net:8443/hls/x3xmbo.m3u8?s=_EUweGIWgx07pJbt7B_OPQ&e=1565365600
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s143
+https://media.notahoneypot.me/s143.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s77
+https://media.notahoneypot.me/s77.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s137
+https://media.notahoneypot.me/s137.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s82
+https://media.notahoneypot.me/s82.m3u8
 
 
 
