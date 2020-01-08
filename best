@@ -313,6 +313,12 @@ https://media.notahoneypot.me/s78.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s113 07012020
 https://media.notahoneypot.me/s113.m3u8
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s23 08012020
+https://media.notahoneypot.me/s23.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s99 08012020
+https://media.notahoneypot.me/s99.m3u8
+
 
 
 
