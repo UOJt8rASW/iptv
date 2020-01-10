@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="euronews yt2" tvg-id="euronews" group-title="Vollprogramm" tvg-logo="https://d3dadyqi1774oh.cloudfront.net/ci/default/euronews-uk.png",euronews yt
-https://bit.ly/2Tb58V7
+#EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Vollprogramm" tvg-logo="https://d3dadyqi1774oh.cloudfront.net/ci/default/euronews-uk.png",euronews
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1578681542/ei/ZnAYXp-yJpGF1wKzorXADQ/ip/2a01:4f8:150:5142::2/id/4OelQjaQe_E.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-4g5edned.googlevideo.com/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/9920/mm/44/mn/sn-4g5edned/ms/lva/mv/m/mvi/5/pl/44/dover/11/keepalive/yes/fexp/23842630/mt/1578659838/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ALgxI2wwRQIhAILomj0Klpf_m7G4MysvQea8FMlwe-9Pm8MPVuVXuzVRAiANzwxOfBS5s4p5U8ZuEyYaVr2NZuFa2qPkyKBHpOtRrQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIgD8JkleKKfuqWL0MfpSFmMZOtr7SN4Y_cMV0TJ6n2qN8CIQCEYd8TCn1UUX3fBqEiXdP4sYF3mr4uUsn27HeBMqUDMw%3D%3D/playlist/index.m3u8
+
 #EXTINF:-1 tvg-name="Das Erste ARD HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
 https://mcdn.daserste.de/daserste/de/master_1960.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
