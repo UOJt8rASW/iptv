@@ -335,10 +335,10 @@ https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CpMDvUnJdqmWpUv7bk5cVVmOYRf
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://meinsportpodcast.de/wp-content/uploads/2018/07/0016_Dart-e1532085199975.jpg",BDO yt live
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1578601452/ei/izcXXti5O4zu1gLJuKqYDA/ip/2a01:4f8:150:5142::2/id/zWlfl0kF88k.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-4g5e6nsz.googlevideo.com/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/8080/mm/44/mn/sn-4g5e6nsz/ms/lva/mv/m/mvi/4/pl/44/dover/11/keepalive/yes/fexp/23842630/mt/1578579742/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ALgxI2wwRQIhAI9su6Pk4IpWxXAfOm9dAq6rH7iuwv1-LSp3BurpouPJAiA8GeXT0Fi0W-f4jjPrvzFXl_NruGK8WsRlRrKqMbSFhw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRAIgVuRyyyokcTjheYp_8P64XeI1bjgjeZP4JeQIr_KaGdQCIBN5wOjbB1EFwjl3q6llOPbEDg1MP9PlDXlbwrEFZuUN/playlist/index.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",dailysport.pw DAZN ES CH1
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",DAZN ES CH1
 https://a.dailysport.pw/1/1.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",dailysport.pw DAZN EN CH1
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",DAZN EN CH2
 https://a.dailysport.pw/epl/1/1.m3u8
 
 
