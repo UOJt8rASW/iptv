@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Vollprogramm" tvg-logo="https://d3dadyqi1774oh.cloudfront.net/ci/default/euronews-uk.png",euronews yt
+#EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Vollprogramm" tvg-logo="https://i.imgur.com/rCaIVvF.png",euronews yt
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1579372064/ei/wPkiXv2gEYf4-gaJwqOYCw/ip/2a01:4f8:150:5142::2/id/EHKB9y0nB8k.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-4g5ednse.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/7430/mm/44/mn/sn-4g5ednse/ms/lva/mv/m/mvi/3/pl/42/dover/11/keepalive/yes/fexp/23842630,23860863/mt/1579350380/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ALgxI2wwRgIhAO3ptZYe7i-HHyMMvQjNHxf0tkre4nzii0OpULuNs1VOAiEA1AQuI8hUnxhbvcg2uzHjwG8_nkaYerDMKErImhRYCiI%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIhAKcW1aqWo3dMyKOMzU4vLgnZkCnbjn34RPVcdG75Xpy2AiBLeH7yKdRiNjlTT0Pe8JKasV90kzKghkB9BTM4g8HUAQ%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-name="Das Erste ARD HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
@@ -296,55 +296,55 @@ http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
 
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="http://goldenarrowschannel.info/Images/LOGO%20TYBE.jpg",Golden Arrows Channel
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Golden Arrows Channel
 https://104.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?id=44790&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s143 06012020
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s143 06012020
 https://media.notahoneypot.me/s143.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s77 06012020
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s77 06012020
 https://media.notahoneypot.me/s77.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s137 06012020
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s137 06012020
 https://media.notahoneypot.me/s137.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s82 06012020
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s82 06012020
 https://media.notahoneypot.me/s82.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s78 07012020
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s78 07012020
 https://media.notahoneypot.me/s78.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s113 07012020
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s113 07012020
 https://media.notahoneypot.me/s113.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s23 08012020
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s23 08012020
 https://media.notahoneypot.me/s23.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s99 08012020
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s99 08012020
 https://media.notahoneypot.me/s99.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s11 11012020
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s11 11012020
 https://media.notahoneypot.me/s11.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s134 11012020
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s134 11012020
 https://media.notahoneypot.me/s134.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s16 11012020
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s16 11012020
 https://media.notahoneypot.me/s16.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",s135 12012020
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s135 12012020
 https://media.notahoneypot.me/s135.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",CH1 ES 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH1 ES 
 https://dailysport99.global.ssl.fastly.net/http/002/playlist.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",CH2 EN
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH2 EN
 https://dailysport99.global.ssl.fastly.net/live/2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",CH3 ES
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH3 ES
 https://dailysport99.global.ssl.fastly.net/daily/3/playlist.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",CH4 EN
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH4 EN
 https://dailysport99.global.ssl.fastly.net/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/VnxdXC6.jpg",CH12 ES Bundesliga
