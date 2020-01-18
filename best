@@ -345,7 +345,7 @@ https://dailysport99.global.ssl.fastly.net/live/2/playlist.m3u8
 https://dailysport99.global.ssl.fastly.net/daily/3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH4 EN
-https://dailysport0.azureedge.net/live/2/playlist.m3u8
+https://daily00.s3-accelerate.dualstack.amazonaws.com/2/2.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/VnxdXC6.jpg",CH12 ES Bundesliga
 https://dailysport99.global.ssl.fastly.net/http/008/playlist.m3u8
