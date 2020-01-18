@@ -341,6 +341,9 @@ https://dailysport99.global.ssl.fastly.net/http/002/playlist.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",CH2 EN
 https://dailysport99.global.ssl.fastly.net/live/2/playlist.m3u8
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",CH3 ES
+https://dailysport99.global.ssl.fastly.net/daily/3/playlist.m3u8
+
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://cdn.britannica.com/s:800x1000/51/190751-131-B431C216/soccer-ball-goal.jpg",CH4 EN
 https://dailysport99.global.ssl.fastly.net/live/4/playlist.m3u8
 
