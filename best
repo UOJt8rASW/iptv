@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Vollprogramm" tvg-logo="https://i.imgur.com/rCaIVvF.png",euronews yt
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1579895090/ei/0vQqXv3dOc-kgQeI2Lm4Bw/ip/2a01:4f8:150:5142::2/id/EHKB9y0nB8k.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-4g5ednse.googlevideo.com/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/6160/mm/44/mn/sn-4g5ednse/ms/lva/mv/m/mvi/3/pl/42/dover/11/keepalive/yes/fexp/23842630/mt/1579873283/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ALgxI2wwRgIhAIsC9IVONtSCjgVtQCsYCebjNrAgI8CcfEZk_3HBfpPIAiEApNspSb_iuSK58YFOAfq5IZ_sJHi07HX7_tilXpgrREI%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIgQ1Ob2L4pwzQWh1bQBSWKSp_M8nY3HD4ubEHgMeVmlgECIQDVoeMwc0LynWxlUQ5Yn8912fAVpEiGnWG6Q7oNJqt8yw%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Vollprogramm" tvg-logo="https://i.imgur.com/rCaIVvF.png",Euronews
+https://tinyurl.com/euronewsde2020
+
 #EXTINF:-1 tvg-name="Das Erste ARD HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
 https://mcdn.daserste.de/daserste/de/master_1960.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
