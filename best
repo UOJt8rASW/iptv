@@ -359,14 +359,12 @@ https://daily00.s3-accelerate.dualstack.amazonaws.com/2/2.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/VnxdXC6.jpg",CH12 ES Bundesliga
 https://daily88.global.ssl.fastly.net/http/008/playlist.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/VnxdXC6.jpg",HB
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1579897623/ei/t_4qXqC9KIGwgQfUnZGYAw/ip/2a01:4f8:150:5142::2/id/GfvAl8704Aw.0/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r3---sn-4g5edne6.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/7120/mm/44/mn/sn-4g5edne6/ms/lva/mv/m/mvi/2/pl/42/dover/11/keepalive/yes/fexp/23842630,23860863/mt/1579875928/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ALgxI2wwRgIhAM8cdf-AFHksMTkunPZA0ff2jRjujMXnK5LFLz-ntQO4AiEAsNd5IDJXzMmW8m-DOpQj8oDbsaEPgWN2vil6asEPNTk%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRAIgUToFvuasWk8aFdCnun_iQeJT1dNquCfUeSgP3TUodRYCIAVfWwSiAHRxbdgFNAqJ1w8TeY9wJg7zewVNfcw4yHpp/playlist/index.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/VnxdXC6.jpg",HB2
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/EZ3EUxp.jpg",Beinsports 1 HD
+https://2210.janjua.pw:8088/adfree/bn21111111/playlist.m3u8?id=96094&wowzasessionid=3067557318&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 
-
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/xKiyGAP.jpg",Beinsports 2 HD
+https://2d04.janjua.pw:8088/adfree/b2212222222/playlist.m3u8?id=96130&wowzasessionid=061789541&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 
 
