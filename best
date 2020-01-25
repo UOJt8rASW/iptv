@@ -354,11 +354,11 @@ https://media.notahoneypot.me/s91.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH1 ES 
 https://daily88.global.ssl.fastly.net/http/002/playlist.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH2 EN
-https://daily88.global.ssl.fastly.net/live/2/playlist.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH2 ES
+https://cdn2.dailysport.pw/2/2.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH3 ES
-https://daily88.global.ssl.fastly.net/daily/3/playlist.m3u8
+https://cdn2.dailysport.pw/3/3.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH4 EN
 https://daily00.s3-accelerate.dualstack.amazonaws.com/2/2.m3u8
