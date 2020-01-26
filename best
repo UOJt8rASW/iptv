@@ -75,7 +75,7 @@ https://cdn2.dailysport.pw/1/1.m3u8
 https://cdn2.dailysport.pw/2/2.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH3
-https://cdn2.dailysport.pw/epl1/epl1.m3u8
+https://d000.global.ssl.fastly.net/epl/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH6
 https://cdn2.dailysport.pw/6/6.m3u8
