@@ -5,6 +5,116 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1580060974/ei/
 
 
 
+
+
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Golden Arrows Channel
+https://104.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?id=44790&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s143 06012020
+https://media.notahoneypot.me/s143.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s77 06012020
+https://media.notahoneypot.me/s77.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s137 06012020
+https://media.notahoneypot.me/s137.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s82 06012020
+https://media.notahoneypot.me/s82.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s78 07012020
+https://media.notahoneypot.me/s78.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s113 07012020
+https://media.notahoneypot.me/s113.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s23 08012020
+https://media.notahoneypot.me/s23.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s99 08012020
+https://media.notahoneypot.me/s99.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s11 11012020
+https://media.notahoneypot.me/s11.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s134 11012020
+https://media.notahoneypot.me/s134.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s34 18012020
+https://media.notahoneypot.me/s34.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s16 11012020
+https://media.notahoneypot.me/s16.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s135 12012020
+https://media.notahoneypot.me/s135.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s136 22012020
+https://media.notahoneypot.me/s136.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s110 24012020
+https://media.notahoneypot.me/s110.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s91 24012020
+https://media.notahoneypot.me/s91.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s92 25012020
+https://media.notahoneypot.me/s92.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s05 25012020
+https://media.notahoneypot.me/s05.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s123 25012020
+https://media.notahoneypot.me/s123.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH1
+https://cdn2.dailysport.pw/1/1.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH2
+https://cdn2.dailysport.pw/2/2.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH3
+https://cdn2.dailysport.pw/epl1/epl1.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH6
+https://cdn2.dailysport.pw/6/6.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Beinsports" tvg-logo="https://i.imgur.com/EZ3EUxp.jpg",Beinsports 1 HD
+https://2210.janjua.pw:8088/adfree/bn21111111/playlist.m3u8?id=96094&wowzasessionid=3067557318&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Beinsports" tvg-logo="https://i.imgur.com/xKiyGAP.jpg",Beinsports 2 HD
+https://2d04.janjua.pw:8088/adfree/b2212222222/playlist.m3u8?id=96130&wowzasessionid=061789541&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Beinsports" tvg-logo="https://i.imgur.com/l5LIgDk.jpg",Beinsports 3 HD
+https://2202.janjua.pw:8088/adfree/bn33333333333323/playlist.m3u8?id=96242&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Beinsports" tvg-logo="https://i.imgur.com/cNHWfUD.jpg",Beinsports 4 HD
+https://2210.janjua.pw:8088/adfree/BN44454444/playlist.m3u8?id=96269&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Beinsports" tvg-logo="https://i.imgur.com/nzThn6Z.jpg",Beinsports 5 HD
+https://2209.janjua.pw:8088/adfree/BN5555555555/playlist.m3u8?id=96270&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Beinsports" tvg-logo="https://i.imgur.com/hNvGEYz.jpg",Beinsports 6 HD
+https://2d01.janjua.pw:8088/adfree/BN6666666/playlist.m3u8?id=96271&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Beinsports" tvg-logo="https://i.imgur.com/ucEByZE.jpg",Beinsports 7 HD
+https://2201.janjua.pw:8088/adfree/BN111111111121/playlist.m3u8?id=95444&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Beinsports" tvg-logo="https://i.imgur.com/rDmYbRF.jpg",Beinsports 8 HD
+https://2d02.janjua.pw:8088/adfree/BN111111111121/playlist.m3u8?id=95444&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Beinsports" tvg-logo="https://i.imgur.com/ucEByZE.jpg",Beinsports 9 HD
+https://2210.janjua.pw:8088/adfree/bnewsssss/playlist.m3u8?id=93477&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+
 #EXTINF:-1 tvg-name="Das Erste ARD HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
 https://mcdn.daserste.de/daserste/de/master_1960.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
@@ -300,107 +410,7 @@ http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
 
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Golden Arrows Channel
-https://104.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?id=44790&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s143 06012020
-https://media.notahoneypot.me/s143.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s77 06012020
-https://media.notahoneypot.me/s77.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s137 06012020
-https://media.notahoneypot.me/s137.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s82 06012020
-https://media.notahoneypot.me/s82.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s78 07012020
-https://media.notahoneypot.me/s78.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s113 07012020
-https://media.notahoneypot.me/s113.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s23 08012020
-https://media.notahoneypot.me/s23.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s99 08012020
-https://media.notahoneypot.me/s99.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s11 11012020
-https://media.notahoneypot.me/s11.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s134 11012020
-https://media.notahoneypot.me/s134.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s34 18012020
-https://media.notahoneypot.me/s34.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s16 11012020
-https://media.notahoneypot.me/s16.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s135 12012020
-https://media.notahoneypot.me/s135.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s136 22012020
-https://media.notahoneypot.me/s136.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s110 24012020
-https://media.notahoneypot.me/s110.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s91 24012020
-https://media.notahoneypot.me/s91.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s92 25012020
-https://media.notahoneypot.me/s92.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s05 25012020
-https://media.notahoneypot.me/s05.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s123 25012020
-https://media.notahoneypot.me/s123.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH1
-https://cdn2.dailysport.pw/1/1.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH2
-https://cdn2.dailysport.pw/2/2.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH3
-https://cdn2.dailysport.pw/epl1/epl1.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH6
-https://cdn2.dailysport.pw/6/6.m3u8
-
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/EZ3EUxp.jpg",Beinsports 1 HD
-https://2210.janjua.pw:8088/adfree/bn21111111/playlist.m3u8?id=96094&wowzasessionid=3067557318&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/xKiyGAP.jpg",Beinsports 2 HD
-https://2d04.janjua.pw:8088/adfree/b2212222222/playlist.m3u8?id=96130&wowzasessionid=061789541&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/l5LIgDk.jpg",Beinsports 3 HD
-https://2202.janjua.pw:8088/adfree/bn33333333333323/playlist.m3u8?id=96242&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/cNHWfUD.jpg",Beinsports 4 HD
-https://2210.janjua.pw:8088/adfree/BN44454444/playlist.m3u8?id=96269&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/nzThn6Z.jpg",Beinsports 5 HD
-https://2209.janjua.pw:8088/adfree/BN5555555555/playlist.m3u8?id=96270&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/hNvGEYz.jpg",Beinsports 6 HD
-https://2d01.janjua.pw:8088/adfree/BN6666666/playlist.m3u8?id=96271&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/ucEByZE.jpg",Beinsports 7 HD
-https://2201.janjua.pw:8088/adfree/BN111111111121/playlist.m3u8?id=95444&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/rDmYbRF.jpg",Beinsports 8 HD
-https://2d02.janjua.pw:8088/adfree/BN111111111121/playlist.m3u8?id=95444&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/ucEByZE.jpg",Beinsports 9 HD
-https://2210.janjua.pw:8088/adfree/bnewsssss/playlist.m3u8?id=93477&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 
 
