@@ -106,8 +106,11 @@ https://cdn2.dailysport.pw/6/6.m3u8
 
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/5VG1Gu3.jpg",Tennis ESPN 2
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/5VG1Gu3.jpg",Tennis 1
 https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/5VG1Gu3.jpg",Tennis 2
+https://e7.cdn4.us/ingest666/espn_usa.m3u8
 
 
 
