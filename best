@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Vollprogramm" tvg-logo="https://i.imgur.com/rCaIVvF.png",Euronews
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1580319621/ei/JW8xXqqbIcKygQeS-oaQAQ/ip/2a01:4f8:150:5142::2/id/_P0YGdlu7Tw.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-4g5e6nzs.googlevideo.com/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/9620/mm/44/mn/sn-4g5e6nzs/ms/lva/mv/m/mvi/4/pl/42/dover/11/keepalive/yes/fexp/23842630/mt/1580297914/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ALgxI2wwRAIgN1bF1NunJCU-36UqnKeJywSSWpIKYGzaheKkDLzELdACICFszhLf6z4KCNVER-ufMpqFSywbxekg7kY7nOBFA-hN/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIgQM0ZUT5xpz51HQ7iLVVTukSLhM7g8fS4tjDw5QCYVOkCIQCXP5_Cjgf057-yGhCQeAXZguRNE3PqI_yHazyZKB7NKA%3D%3D/playlist/index.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1580392914/ei/co0yXp6GKdLcgAeu9Kb4AQ/ip/2a01:4f8:150:5142::2/id/_P0YGdlu7Tw.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-4g5e6nzs.googlevideo.com/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/10680/mm/44/mn/sn-4g5e6nzs/ms/lva/mv/m/mvi/4/pl/42/dover/11/keepalive/yes/fexp/23842630,23860863/mt/1580371228/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ALgxI2wwRQIhAMUjTsb_wYNZyN2Ihek6TXG0Ffilxa-4YxUIhSqAC6bMAiA2hLirj2RoGa7turS5X53gTdgtYbseRTAOE-EaKf400Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRgIhAJFpW9mhCjUYXQOqGe2qPLeKSbfxv6KUtpmboIkI8ZcVAiEAjup1S6FBnQmHlOSRLL9uy1BF0ugvz18i3lHxawT3MHU%3D/playlist/index.m3u8
 
 
 
@@ -107,9 +106,8 @@ https://cdn2.dailysport.pw/6/6.m3u8
 
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Tennis
-https://cdndaily11.azureedge.net/daily/17/playlist.m3u8
-
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/5VG1Gu3.jpg",Tennis ESPN 2
+https://gma2.blab.email/espn2.m3u8
 
 
 
