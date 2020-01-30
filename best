@@ -105,6 +105,8 @@ https://cdndaily11.azureedge.net/epl/1/playlist.m3u8
 https://cdn2.dailysport.pw/6/6.m3u8
 
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/5VG1Gu3.jpg",Eurosport1 EN
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/GfSiAbw.jpg",NBA ESPN
 https://gma2.blab.email/espn2.m3u8
