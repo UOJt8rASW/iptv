@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Vollprogramm" tvg-logo="https://i.imgur.com/rCaIVvF.png",Euronews
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1580481544/ei/qOczXvDrDYuG8gOXwKnwCA/ip/31.18.121.146/id/_P0YGdlu7Tw.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-i5h7lned.googlevideo.com/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/16280/mm/44/mn/sn-i5h7lned/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/fexp/23842630/mt/1580459843/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ALgxI2wwRgIhAP5Fkt4s2pbqlwGn3fzHAdaWcJK1_qT7AgTcNSkTft_nAiEA1ArU2yt0fg8Rxhv_-S2O6VWLBY2veZxXUGOJQHIp1W8%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIhAMXCqxDaxkA20BYHJVo10sB6H5WunU6nDGxBYGwW7sFKAiBn2Q1sKbcs7nUHax8wPGLx_eDvBudQ1fhfkYd8FQzWIQ%3D%3D/playlist/index.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1580532332/ei/DK40XsnvAZ6o1gLir774AQ/ip/2a01:4f8:150:5142::2/id/_P0YGdlu7Tw.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-4g5ednsl.googlevideo.com/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/7400/mm/44/mn/sn-4g5ednsl/ms/lva/mv/m/mvi/4/pl/42/dover/11/keepalive/yes/fexp/23842630/beids/9466586/mt/1580510605/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ALgxI2wwRgIhAPQRWw8VqgQtPsrc-Jv9IXNi5pKh0CObm6vs-K4aUhvbAiEAwJFYhXvwZ8P-ymisxpuuxJV2iKNaZxeAL0Sxqw2Sics%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIhAP8z3PWakthWc99t_zwkICz7wNlPRdbUg2jB_OhbuWBIAiB1mpUO9I43AS7tDcGoQ_ODarFap0v7s_naVZUpDAU8rg%3D%3D/playlist/index.m3u8
 
 
 
