@@ -168,7 +168,8 @@ https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneo.png",ZDFneo
 https://zdf-hls-02.akamaized.net/hls/live/2002461/de/dc55a4411a4769cf6be39da3697b3791/5/5.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfo.png",ZDFinfo
-https://zdfhls17-i.akamaihd.net/hls/live/744750/de/5/5.m3u8
+https://zdfhls17-i.akamaihd.net/hls/live/744750/de/veryhigh/master.m3u8
+
 #EXTINF:-1 tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
 http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
 #EXTINF:-1 tvg-name="blizz TV" tvg-id="Blizz.de" group-title="Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png",blizz TV
