@@ -11,7 +11,7 @@ https://104.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",ovo1
-http://104.196.14.74/live/ovoo1/playlist.m3u8
+http://35.231.55.105/live/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",ovo2
 http://34.83.46.149/live/ovoo2/playlist.m3u8
