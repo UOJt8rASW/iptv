@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Vollprogramm" tvg-logo="https://i.imgur.com/rCaIVvF.png",Euronews
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1581627656/ei/qGRFXu2ENdCPgAfNrZDACg/ip/2a01:4f8:150:5142::2/id/-6neOu9umxc.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-4g5e6nss.googlevideo.com/gcr/ua/vprv/1/playlist_type/DVR/mm/44/mn/sn-4g5e6nss/ms/lva/mv/u/mvi/4/pl/50/dover/11/keepalive/yes/fexp/23842630,23878762/mt/1581605810/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ALgxI2wwRQIgKxu5LbPee4EZ739NaV2R-IIkvmSsj7VDFpl8QT5GRoICIQCN5hcvvzjoZ2i_8855y9DHcXaxZY6_1aquufzBu69yDQ%3D%3D/lsparams/hls_chunk_host,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIhAJ44ngQ1VX_nH1fFGE5w0BoA_ApufCfqegXtD1hjbmHEAiAQk2gn_3gVQda021N07zSxU1KZjBI2FmwYTjhGfnnH1w%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1581729141/ei/FfFGXt2jJ8-UgAey6L2YDw/ip/2a01:4f8:150:5142::2/id/-6neOu9umxc.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-4g5e6nss.googlevideo.com/gcr/ua/vprv/1/playlist_type/DVR/mm/44/mn/sn-4g5e6nss/ms/lva/mv/u/mvi/4/pl/50/dover/11/keepalive/yes/fexp/23842630/mt/1581707139/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ALgxI2wwRgIhAIa2ugU3XtoRX5OHS_EcN39iRRP7PURfNfSaWffmEGqtAiEAqilZx50_LpO4oXKt9fwL2mZx2EozhqrLIe6g1raWiVc%3D/lsparams/hls_chunk_host,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRgIhAK8ogvWguPANz-ZCQ0PRbHXk2lTRFHLEKWEKI-BUNd3KAiEAmzqGCQMuoPbM3_W4lXsnf2ACwogHrcm_Zj91ulRrM0M%3D/playlist/index.m3u8
 
 
 
@@ -92,6 +92,12 @@ https://media.notahoneypot.me/s123.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s120 29012020
 https://media.notahoneypot.me/s120.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s97 14022020
+https://media.notahoneypot.me/s97.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s06 14022020
+https://media.notahoneypot.me/s06.m3u8
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH1
