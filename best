@@ -33,6 +33,9 @@ http://34.95.5.28/live/ovoo4/playlist.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s108 27012020
 https://media.notahoneypot.me/s108.m3u8
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s29 19022020
+https://media.notahoneypot.me/s29.m3u8
+
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s17 27012020
 https://media.notahoneypot.me/s17.m3u8
 
