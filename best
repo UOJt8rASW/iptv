@@ -9,8 +9,10 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1582978009/ei/
 https://113.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?id=44790&wowzasessionid=271685456&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",ovo1
-http://35.231.55.105/live/channel1/playlist.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",OVO1 BVBvsS04
+
+http://35.197.60.248/live/ovo1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/VyYtvXq.jpg",OCT
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrADrtYyeEbrYKUelQv3Uu9ojsCxGMOOZQL1JtFoFt_5jkdHZigq40O-G6AfEHSKslxTd7E7KB1j2tszmC8lfBpJwwC6peAnWu5A2r7S4H-xCnzbsU65O9RrPdJGxGIBvbh4x0HwJCcpWpava-V95vwl0ynq5HKXruQTIZJFxZXjKb6pinLDaChrSeis7I4MkU2d6bSnhMj13QbJCcjmmL5xFYnwJLytgwgkrRPz3qInbzVmEFWxH9VEDsYOO2__gw3M_gCfbtYMzWWoLIBKsBmCLi-hVFyl3ahjthXXdOeRXx6LiCM8VJc26_meB_tQPm7SaESvTSHCLjjo9PnPFufIghOiWoeuN7HjGMqBkcDrBY-l7XtxKZ3mOmiM05Fa5rBdbVboDQRKhUZ8NeaacGdkjZh8ZK5uiuBMYzP6zJxBpLGaHbUjsHUdIaiuKFTpnmjqhjK02uxpYJUBGpUQ7rYlKLNJEca36krBI5XZ5e3cGAhf65a65P6HXZD0gJ4SuYtBaXFBW5BDsD96mcgbLtDx11MtTtwQkn7JV-oB9OiIChuV4o9BhBRHGBtK-fd6RArxEhAfIACkBi9RRmve1A4J2r9rGgwe2l6c5ZBskJZPlAg.m3u8
