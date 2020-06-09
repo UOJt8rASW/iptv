@@ -141,7 +141,7 @@ https://gma2.blab.email/espn2.m3u8
 
 #EXTINF:-1 tvg-name="Das Erste ARD HD" tvg-id="ARD.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
 https://mcdn.daserste.de/daserste/de/master_1960.m3u8
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF FULL HD
 https://zdf-hls-01.akamaized.net/hls/live/2002460/de/veryhigh/master.m3u8
