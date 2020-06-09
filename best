@@ -198,7 +198,7 @@ https://zdfhls19-i.akamaihd.net/hls/live/744752/de/4/4.m3u8
 #EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNewsHD.de" group-title="Nachrichten;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
 
-#EXTINF:-1 tvg-name="OK Kiel" tvg-id="OK Kiel" group-title="OK Kiel" tvg-logo="https://i.imgur.com/CUE7QJR.png",OK Kiel
+#EXTINF:-1 tvg-name="OK Kiel" tvg-id="OK Kiel" group-title="Main" tvg-logo="https://i.imgur.com/CUE7QJR.png",OK Kiel
 https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
 
 
