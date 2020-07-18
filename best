@@ -441,6 +441,9 @@ http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
 
 
+#EXTINF:-1 tvg-name="Sport1" tvg-id="Sport1" group-title="Main" tvg-logo="https://i.imgur.com/2daCbzX.png",Sport1
+https://1404752763.rsc.cdn77.org/AcvMa8MSwJ1vWp-pB-JPaw==,1595103426/ls-45420-1/tracks-v1a1/mono.m3u8
+
 
 
 
