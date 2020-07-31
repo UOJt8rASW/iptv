@@ -12,7 +12,7 @@ https://115.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u
 http://35.197.60.248/live/ovo1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",MLS Playoff
-http://cdn.freesport.me/live/stream.php?t=Flash&link=https://daddylive.live/batman/stream-44.php&id=3719&w=https://www.batman-stream.tv/
+https://ul.cdn946.net:8443/hls/2vewskxuho8rq.m3u8?s=IfZlm_-pmYQasg-SJ6RRaQ&e=1596175498
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",ovo2
 http://34.83.46.149/live/ovoo2/playlist.m3u8
