@@ -3,29 +3,9 @@
 #EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Main" tvg-logo="https://i.imgur.com/rCaIVvF.png",Euronews
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1582978009/ei/ef9ZXv-ILraS8gOVibpY/ip/31.18.121.146/id/9XFz8WGF3dc.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-i5h7lner.googlevideo.com/gcr/de/vprv/1/playlist_type/DVR/mm/44/mn/sn-i5h7lner/ms/lva/mv/u/mvi/0/pl/24/dover/11/keepalive/yes/fexp/23842630/mt/1582955849/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ADKhkGMwRAIgWToDlePGI7isQSfb-SUjnS8cnRnLX78cOv6tZVGJjHkCIETZ1xGEQXTW1cr8PxGZKpFkIwIV3DgS0OAWybVmCLTv/lsparams/hls_chunk_host,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRAIgZucOKgclD8OB3g_aezowTpozSJq-0cD2xPi3uhevmTwCIGMXkLwkmmvVc9SXc_LehDx6hhI_1vVi187yQML9oU6A/playlist/index.m3u8
 
-
-
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Golden Arrows Channel
 https://115.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?id=44790&wowzasessionid=229377657&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",OVO1 BVBvsS04
-http://35.197.60.248/live/ovo1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",MLS Playoff
-http://89.105.221.114/hls/L1.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",ovo2
-http://34.83.46.149/live/ovoo2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",ovo3
-http://104.196.187.20/live/ovoo3/playlist.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",ovo4
-http://34.95.5.28/live/ovoo4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",WATvsLIV ovo2
-http://35.236.67.46/live/ovo2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s120 27072020
 https://media.notahoneypot.me/s120.m3u8
@@ -130,17 +110,7 @@ https://media.notahoneypot.me/s110.m3u8
 https://media.notahoneypot.me/s09.m3u8
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH1
-https://cdn2.dailysport.pw/1/1.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH2
-https://cdn2.dailysport.pw/2/2.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH3
-https://cdndaily11.azureedge.net/epl/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CH6
-https://cdn2.dailysport.pw/6/6.m3u8
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/j7TEBYh.jpg",Eurosport 1 EN
