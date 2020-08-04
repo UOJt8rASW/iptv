@@ -9,6 +9,10 @@ https://115.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",EFL
 http://89.105.221.233/abr/abr-D-2/hls/D-2/chunks.m3u8?nimblesessionid=10996
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",EFL 2
+http://weakspell.carniferou.club/edge/SSME/chunks.m3u8
+
+
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS
