@@ -6,11 +6,10 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1582978009/ei/
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Golden Arrows Channel
 https://115.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?id=44790&wowzasessionid=229377657&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",OZ1
-https://p03.quest123.top:8088/stream/streamsport10/playlist.m3u8?id=8578&wowzasessionid=3303039413&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",EFL
+http://89.105.221.233/abr/abr-D-2/hls/D-2/chunks.m3u8?nimblesessionid=10996
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",OZ2
-https://cdn.nsxmedia.net/hlslive/6399.m3u8
+
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS
 http://35.202.90.136/hls/W-1/chunks.m3u8?nimblesessionid=38723
