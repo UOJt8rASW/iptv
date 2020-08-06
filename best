@@ -16,7 +16,7 @@ http://weakspell.carniferou.club/edge/SSME/chunks.m3u8
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS
-http://35.202.90.136/hls/W-1/chunks.m3u8?nimblesessionid=38723
+http://45.134.21.238:8081/hls/T-1/chunks.m3u8?nimblesessionid=566020
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS 2
 http://ul.cdn946.net:8080/hls/cg2hrchp.m3u8?s=lsz6GGo-Nnscf23vJydU_A&e=1596347482
