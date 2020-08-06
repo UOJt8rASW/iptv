@@ -129,6 +129,9 @@ https://media.notahoneypot.me/s09.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s139 02082020
 https://media.notahoneypot.me/s139.m3u8
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s111 06082020
+https://media.notahoneypot.me/s111.m3u8
+
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/6g8BV0o.png",ESPN 2
