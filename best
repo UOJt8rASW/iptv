@@ -12,6 +12,9 @@ http://89.105.221.233/abr/abr-D-2/hls/D-2/chunks.m3u8?nimblesessionid=10996
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",EFL 2
 http://weakspell.carniferou.club/edge/SSME/chunks.m3u8
 
+#EXTINF:-1 tvg-name="twitch" tvg-id="twitch" group-title="Main" tvg-logo="https://i.imgur.com/gMcYBIi.jpg",twitch
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CvYDcHfs_zr8K5JUvkDFd3Tep4XlOauiW3aDDhV1fMcGJcsNAsf6HRhIUfK0u8kOfEBkih2zZD0N0_yRYHiFWSZSNMgINR5-8pHbdKfu4--yNGnbMCQLw_kW08lSJ1hqpS_pTNnq8dw8NhIrZSKLPXwVPnRMnS34RnogkhneeKf96pIpgsrIjPXyiWmI7-yVdt-lrSeXEGEC7QIkmy6dWPspc16-Sdv3Bd0VVZqyotS802kTenZWWzovownq7ELNuUsMV8Ih8ELKzchSnnmYB-KpTYxWSC9P7myuVJENRYBFPy3G8jXJ3AsLOGsdUKoWESKWhWIgqR0rjdWF5vuXfRRm_XUplsYJSeFAg81ndok99OorFV9zNps0d9jlMPwJkFV_ztWz5RR0kTyLbxJ5wncoXm4IolHXzxG0e4bWJ1clAJjgHOppmJDXQLgC5OzYEqOm3lLEDcImZZikpGxWruX1GoDM1Was3jOXyxtEGsyqg46jnA3nRCZMDfYi8rbxmGXGKqwQT1rYx-IwKU4NxXn72FkKHaBQBMUj8Jr1G0hjlfafOI83A3awzPIR1cwVrdV9rKdzbJ7ktgqyjnrWFTdUIwjONE9OPF6v04lKjPrJlLKjhmNNr5GpxsEHAAgkesrQKP4s6UQ8yCtIQrPh5-gu-hBUiER4-xIQZxxzFa2tk1oYmVEL6SmqwRoMb8TW1a22Ort1K4wf.m3u8
+
 
 
 
