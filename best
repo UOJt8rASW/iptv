@@ -6,12 +6,8 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1582978009/ei/
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Golden Arrows Channel
 https://115.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?id=44790&wowzasessionid=229377657&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",EFL
-http://89.105.221.233/abr/abr-D-2/hls/D-2/chunks.m3u8?nimblesessionid=10996
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",EFL 2
-http://weakspell.carniferou.club/edge/SSME/chunks.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",DAZN 1 BAR HD
+https://ul.cdn946.net:8443/hls/c95e3b6ldr0a.m3u8?s=CoJ0_UIHIFY2ezwGvhnALg&e=1598057011
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket
 http://34.105.224.109/hls/V-3/chunks.m3u8?nimblesessionid=331293
