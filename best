@@ -17,6 +17,13 @@ http://weakspell.carniferou.club/edge/SSME/chunks.m3u8
 http://34.105.224.109/hls/V-3/chunks.m3u8?nimblesessionid=331293
 
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
+http://ul.cdn946.net:8080/hls/waqq3o4.m3u8?s=KkxT4BT2OUkJ8WW65k9_Cg&e=1598039013
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 3
+https://n01.quest123.top:8088/live/webcricm02/playlist.m3u8?id=111058&wowzasessionid=7395320197&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS
