@@ -12,12 +12,17 @@ https://115.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u
 https://p03.quest123.top:8088/stream/socolivepro30005/playlist.m3u8?id=9265&wowzasessionid=3574183310&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
-http://104.198.72.38/hls/V-2/chunks.m3u8
+
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
 https://n01.quest123.top:8088/live/webcricm02/playlist.m3u8?id=111058&wowzasessionid=7395320197&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
+http://104.198.72.38/hls/V-2/chunks.m3u8
+
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 3
+http://104.198.72.38/hls/V-1/chunks.m3u8
 
 
 
