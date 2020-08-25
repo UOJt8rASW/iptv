@@ -11,6 +11,9 @@ https://115.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC
 https://p03.quest123.top:8088/stream/socolivepro30005/playlist.m3u8?id=9265&wowzasessionid=3574183310&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",Tennis
+http://oba2.olins.xyz/hls/channel24hd33/chunks.m3u8?nimblesessionid=4052&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDIwIDk6NTE6MzcgUE0maGFzaF92YWx1ZT1JMVc5b2UvVjRLNWVYZWVvZnBUNHN3PT0mdmFsaWRtaW51dGVzPTcw
+
 
 
 
