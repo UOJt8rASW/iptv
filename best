@@ -14,7 +14,8 @@ https://p03.quest123.top:8088/stream/socolivepro30005/playlist.m3u8?id=9265&wowz
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",Tennis
 http://oba2.olins.xyz/hls/channel24hd33/chunks.m3u8?nimblesessionid=4052&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDIwIDk6NTE6MzcgUE0maGFzaF92YWx1ZT1JMVc5b2UvVjRLNWVYZWVvZnBUNHN3PT0mdmFsaWRtaW51dGVzPTcw
 
-
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/rzazR1E.png",Australia A-League
+http://ul.cdn946.net:8080/hls/dftsbx86z8qhvbg.m3u8?s=8HRbZAaOqkYSFwEAuiJa5w&e=1598459729
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
