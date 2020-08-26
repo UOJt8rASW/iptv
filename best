@@ -27,8 +27,7 @@ http://35.225.94.215/hls/V-3/chunks.m3u8
 http://104.198.72.38/hls/V-1/chunks.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket Caribbean
-http://185.39.10.88:8081/live/skycricketsd1.m3u8?e=1598393376&st=7AxorftoZ9xkoAv6KWp5Xw
-
+http://185.39.10.32:8081/live/skycricketsd1.m3u8?e=1598409775&st=JJXunUOjdisAX234CNABMQ
 
 
 
