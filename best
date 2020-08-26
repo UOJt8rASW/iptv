@@ -19,10 +19,10 @@ http://ul.cdn946.net:8080/hls/dftsbx86z8qhvbg.m3u8?s=8HRbZAaOqkYSFwEAuiJa5w&e=15
 
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="MUEFA" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Bern 1
-http://185.39.11.106:8081/live/live18.m3u8?e=1598475852&st=NPQBRIXmfKRMsEovu3OTpg
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="MUEFA" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Scot 1
+http://87.120.36.57:8080/hls/streama126944/index.m3u8?st=WbsN53IeVav5ITbThIx6Ug
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="MUEFA" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Bern 2
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="MUEFA" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Scot 2
 http://video.assia.tv/hls/68.m3u8?md5=LXbLfGaVIIKs-52sq5jrVg&expires=1598472368
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
