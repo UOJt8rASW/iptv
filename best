@@ -40,8 +40,7 @@ http://ul.cdn946.net:8080/hls/kbxt2afzkv.m3u8?s=D4hU4LcTvghWOPLYKnhNjQ&e=1598424
 http://213.152.161.254:8080/upl5_2.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS 3
-https://hls424462.r-cdn.com/trn_61808/1914/remux/playlist.m3u8
-
+http://video.assia.tv/hls/53.m3u8?md5=Wa1SLp88i6UJU1PluAqmdg&expires=1598409483
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s120 27072020
