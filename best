@@ -19,17 +19,13 @@ http://ul.cdn946.net:8080/hls/dftsbx86z8qhvbg.m3u8?s=8HRbZAaOqkYSFwEAuiJa5w&e=15
 
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="MUEFA" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Scot 1
-http://185.39.10.32:8081/live/ch3sd10.m3u8?e=1598478326&st=i5EHXxxId1WFINuuupqUBg
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="MUEFA" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Scot 2
-http://ul.cdn946.net:8080/hls/yu3w26c9imgo814.m3u8?s=4hflRERwzoBc5BZlAsI1Hw&e=1598492726
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
 https://n01.quest123.top:8088/stream/webcricm02/playlist.m3u8?id=9348&wowzasessionid=623634310&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
-http://35.225.94.215/hls/V-3/chunks.m3u8
+http://45.95.235.105:8080/hls/streama128482/index.m3u8?st=MFtjD37ueuapSi4l57oFMg
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 3
 http://104.198.72.38/hls/V-1/chunks.m3u8
