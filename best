@@ -26,7 +26,7 @@ http://185.39.10.32:8081/live/ch3sd10.m3u8?e=1598478326&st=i5EHXxxId1WFINuuupqUB
 http://ul.cdn946.net:8080/hls/yu3w26c9imgo814.m3u8?s=4hflRERwzoBc5BZlAsI1Hw&e=1598492726
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
-https://n01.quest123.top:8088/live/webcricm02/playlist.m3u8?id=111058&wowzasessionid=7395320197&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+https://n01.quest123.top:8088/stream/webcricm02/playlist.m3u8?id=9348&wowzasessionid=623634310&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
 http://35.225.94.215/hls/V-3/chunks.m3u8
