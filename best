@@ -22,10 +22,10 @@ http://ul.cdn946.net:8080/hls/dftsbx86z8qhvbg.m3u8?s=8HRbZAaOqkYSFwEAuiJa5w&e=15
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
-https://n01.quest123.top:8088/stream/webcricm02/playlist.m3u8?id=9348&wowzasessionid=623634310&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+https://n01.quest123.top:8088/live/webcricm02/playlist.m3u8?id=111058&wowzasessionid=3910324002&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
-http://tv.freecast123.com/tv/xaYIcV6v9K20190901/chunklist_w1134792121_tkaGxzZW5kdGltZT0xNTk4NjM5MTAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9cFhPNUFqT0E3QkU0TzZfd3BNcEJ4bEJjd0d2SndwSElIX3ZTckFZN1lxOD0=.m3u8
+https://n01.quest123.top:8088/stream/webcricm02/playlist.m3u8?id=9348&wowzasessionid=623634310&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 3
 http://104.198.72.38/hls/V-1/chunks.m3u8
