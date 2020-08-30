@@ -32,7 +32,7 @@ https://n01.quest123.top:8088/live/webcricm02/playlist.m3u8?id=111058&wowzasessi
 https://p07.quest123.top:8088/stream/spor0607/playlist.m3u8?id=9370&wowzasessionid=3527160399&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 3
-http://104.198.72.38/hls/V-1/chunks.m3u8
+http://87.120.36.57:8080/hls/streama128482/index.m3u8?st=MFtjD37ueuapSi4l57oFMg
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket Caribbean
 http://185.39.10.20:8081/live/skycricketsd1.m3u8?e=1598482342&st=7jb4mb0cWQ_mmDGoNe2BMw
