@@ -38,8 +38,7 @@ http://87.120.36.57:8080/hls/streama128482/index.m3u8?st=MFtjD37ueuapSi4l57oFMg
 http://185.39.11.33:8081/live/skycricketsd1.m3u8?e=1598800367&st=tdfxC7i7UsEaCCZ9FV-2xA
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket Caribbean
-http://cdn.livetv334.me/webplayer.php?t=ifr&c=1441223&lang=de&eid=966433&lid=1441223&ci=1934&si=41
-
+http://tv.freecast123.com/tv/xaYIcV6v9K20190901/chunklist_w755179771_tkaGxzZW5kdGltZT0xNTk4ODIwMDAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WkxMZjNtRTdJb2pBaXBsdmYzdkt6emRzMVdJb0VyUUdPb25JY016aWdabz0=.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS
 http://ul.cdn946.net:8080/hls/kbxt2afzkv.m3u8?s=D4hU4LcTvghWOPLYKnhNjQ&e=1598424679
