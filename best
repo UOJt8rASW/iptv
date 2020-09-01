@@ -31,11 +31,10 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1598846439/ei/
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
-http://tv.freecast123.com/tv/fTPcX1BhLK20190901/chunklist_w1513366952_tkaGxzZW5kdGltZT0xNTk4OTgyNjAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WTNXhttps://p07.quest123.top:8088/stream/spor0609/playlist.m3u8?id=9429&wowzasessionid=3369699057&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
-RXQtTDZuQmQtOTFEcW1GNHBBQ1NWcnROUGVJZTJPNWhiYWwxcGdZQT0=.m3u8
+https://p07.quest123.top:8088/stream/spor0609/playlist.m3u8?id=9429&wowzasessionid=3369699057&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
-https://p07.quest123.top:8088/stream/spor0607/playlist.m3u8?id=9370&wowzasessionid=3527160399&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+https://n01.quest123.top:8088/stream/webcricmq1/playlist.m3u8?id=9430&wowzasessionid=3710847861&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 3
 http://87.120.36.57:8080/hls/streama128482/index.m3u8?st=MFtjD37ueuapSi4l57oFMg
