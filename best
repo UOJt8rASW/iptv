@@ -30,14 +30,14 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1598846439/ei/
 
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1 ENGvsPAK
 https://p07.quest123.top:8088/stream/spor0609/playlist.m3u8?id=9429&wowzasessionid=3369699057&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2 ENGvsPAK
 https://n01.quest123.top:8088/stream/webcricmq1/playlist.m3u8?id=9430&wowzasessionid=3710847861&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 3
-http://87.120.36.57:8080/hls/streama128482/index.m3u8?st=MFtjD37ueuapSi4l57oFMg
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 3 ENGvsPAK
+https://p03.quest123.top:8088/stream/spor0609/playlist.m3u8?id=9429&wowzasessionid=3961524379&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 4
 http://185.39.11.33:8081/live/skycricketsd1.m3u8?e=1598800367&st=tdfxC7i7UsEaCCZ9FV-2xA
