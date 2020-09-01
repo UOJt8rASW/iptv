@@ -14,8 +14,8 @@ https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC
 https://p03.quest123.top:8088/stream/socolivepro30005/playlist.m3u8?id=9265&wowzasessionid=3574183310&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",US Open Tennis
-http://213.152.161.254:8080/upl3_2.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",US Open Tennis 1 GASvsKarlo
+http://video.assia.tv/hls/46.m3u8?md5=OJ3xAAQiQbkJvF9Z0HEn-A&expires=1599007825
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/rzazR1E.png",Australia A-League
 http://ul.cdn946.net:8080/hls/dftsbx86z8qhvbg.m3u8?s=8HRbZAaOqkYSFwEAuiJa5w&e=1598459729
