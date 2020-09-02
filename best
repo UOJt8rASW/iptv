@@ -1,19 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Main" tvg-logo="https://i.imgur.com/rCaIVvF.png",Euronews
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1582978009/ei/ef9ZXv-ILraS8gOVibpY/ip/31.18.121.146/id/9XFz8WGF3dc.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-i5h7lner.googlevideo.com/gcr/de/vprv/1/playlist_type/DVR/mm/44/mn/sn-i5h7lner/ms/lva/mv/u/mvi/0/pl/24/dover/11/keepalive/yes/fexp/23842630/mt/1582955849/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ADKhkGMwRAIgWToDlePGI7isQSfb-SUjnS8cnRnLX78cOv6tZVGJjHkCIETZ1xGEQXTW1cr8PxGZKpFkIwIV3DgS0OAWybVmCLTv/lsparams/hls_chunk_host,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRAIgZucOKgclD8OB3g_aezowTpozSJq-0cD2xPi3uhevmTwCIGMXkLwkmmvVc9SXc_LehDx6hhI_1vVi187yQML9oU6A/playlist/index.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Golden Arrows Channel
-https://115.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?id=44790&wowzasessionid=229377657&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/6g8BV0o.png",ESPN 2
-https://gma2.blab.email/espn2.m3u8
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC
-https://p03.quest123.top:8088/stream/socolivepro30005/playlist.m3u8?id=9265&wowzasessionid=3574183310&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
-
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",US Open Tennis 1
 http://213.152.161.254:8080/upl6_2.m3u8
 
@@ -21,7 +6,8 @@ http://213.152.161.254:8080/upl6_2.m3u8
 http://ul.cdn946.net:8080/hls/dftsbx86z8qhvbg.m3u8?s=8HRbZAaOqkYSFwEAuiJa5w&e=1598459729
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gzBDq99.png",USL 1
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1599022532/ei/ZNFOX6zhEY_jgQeY4I3QBw/ip/2a01:4f8:150:5142::2/id/OB4OP3ISijQ.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-4g5e6ns6.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/8800/mh/hc/mm/44/mn/sn-4g5e6ns6/ms/lva/mv/m/mvi/4/pl/43/dover/11/keepalive/yes/mt/1599000802/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRAIgcjw8a3a06jFCLDgf22VrBB57fAJdj_tigNekKkU1g3YCICC97xL0Ysn4CSDh7hCEaiAsGwZpRSw4mVGq41m92xXm/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAMtzTlM60-dQ8ZhfCCRsqED1Bdj367COnSC1KLR_fVDEAiEAjLx3fkcb_-pBLDJ23Lnu38NwB0Eezu6hh8aGcVBjopw%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1599110781/ei/HSpQX7OGN9yS1gLu0arwCQ/ip/2a01:4f8:150:5142::2/id/Zozdsa__DTE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-4g5e6nlk.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/8790/mh/bn/mm/44/mn/sn-4g5e6nlk/ms/lva/mv/m/mvi/3/pl/43/dover/11/keepalive/yes/mt/1599089060/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAO9OrIV1G3t4boJQGK4-J8po2p3uH9qy3jRYL9ZLJb7qAiBpTB06xi5cp2Ib9KU_YmL96kZgYdeZ6IpLAdTZ46llcA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhANyDu6RRqiaolO2xkQwjXhGePAe0XrAm1VeqXfEJJa1dAiAlT6e7H1M5pjB7214ri8mI5WdtROu28qlqnkXqpBQbBw%3D%3D/playlist/index.m3u8
+
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gzBDq99.png",USL 2
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1598846439/ei/hyFMX-rdKcWU-gacsqS4CA/ip/2a01:4f8:150:5142::2/id/VRwx8rW9Eb0.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-4g5edne7.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/6730/mh/48/mm/44/mn/sn-4g5edne7/ms/lva/mv/m/mvi/6/pl/43/dover/11/keepalive/yes/mt/1598824699/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAPfAQc5xUZuzeiFUJcYt-2Cqdd_yh78wm3j_Jklq9fzaAiEAnvOxmL1CIW94hjDNjAeWnhM8ZPc_WdxaSUwd_8R7g7Q%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAKvY5Hz043_pA4grQ4rTAvFQ5hcICdShYzf6dpEXRHPVAiAnoOFypl6hAbeTU7mK0DwEQ2AMRuvIiJwZw6hic0Kp4Q%3D%3D/playlist/index.m3u8
@@ -32,7 +18,6 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1598846439/ei/
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
 http://185.39.10.32:8081/live/skycricketsd1.m3u8?e=1598999548&st=-POuUjoW1HWnGPq1y0imVQ
-
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2 ENGvsPAK
 https://n01.quest123.top:8088/stream/webcricmq1/playlist.m3u8?id=9430&wowzasessionid=3710847861&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
@@ -60,6 +45,24 @@ http://213.152.161.254:8080/upl5_2.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS 3
 http://video.assia.tv/hls/53.m3u8?md5=Wa1SLp88i6UJU1PluAqmdg&expires=1598409483
+
+
+
+
+
+#EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Main" tvg-logo="https://i.imgur.com/rCaIVvF.png",Euronews
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1582978009/ei/ef9ZXv-ILraS8gOVibpY/ip/31.18.121.146/id/9XFz8WGF3dc.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-i5h7lner.googlevideo.com/gcr/de/vprv/1/playlist_type/DVR/mm/44/mn/sn-i5h7lner/ms/lva/mv/u/mvi/0/pl/24/dover/11/keepalive/yes/fexp/23842630/mt/1582955849/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ADKhkGMwRAIgWToDlePGI7isQSfb-SUjnS8cnRnLX78cOv6tZVGJjHkCIETZ1xGEQXTW1cr8PxGZKpFkIwIV3DgS0OAWybVmCLTv/lsparams/hls_chunk_host,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRAIgZucOKgclD8OB3g_aezowTpozSJq-0cD2xPi3uhevmTwCIGMXkLwkmmvVc9SXc_LehDx6hhI_1vVi187yQML9oU6A/playlist/index.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Golden Arrows Channel
+https://115.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?id=44790&wowzasessionid=229377657&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/6g8BV0o.png",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC
+https://p03.quest123.top:8088/stream/socolivepro30005/playlist.m3u8?id=9265&wowzasessionid=3574183310&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 
 
