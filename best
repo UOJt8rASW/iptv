@@ -5,6 +5,9 @@ http://213.152.161.254:8080/upl6_2.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",US Open Tennis 2
 http://213.152.161.254:8080/upl2_2.m3u8
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/XFZ6oWb.jpg",NHL
+https://hlslive-akc.med2.med.nhl.com/hdnts=exp=1599333615~acl=/*~id=nhlGatewayId:9803178~data=2000018421~hmac=1d7d5c47114d90d9763d1df146867dfa2c43ebb6ed8f2fa682e56f08daa75a6a/ec63c9d86a5a74835611a05c356c37d0/ls03/nhl/2020/09/04/NHL_GAME_VIDEO_DALCOL_M2_VISIT_20200904_1599229913301/5600K/5600_complete.m3u8
+
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/rzazR1E.png",Australia A-League
 http://ul.cdn946.net:8080/hls/dftsbx86z8qhvbg.m3u8?s=8HRbZAaOqkYSFwEAuiJa5w&e=1598459729
 
