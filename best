@@ -30,6 +30,16 @@ http://tv.freecast123.com/tv/6k6bIiEf4320190929/chunklist_w1191686557_tkaGxzZW5k
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 4
 http://tv.freecast123.com/tv/29Bi4bkZ1J20190929/chunklist_w1849439514_tkaGxzZW5kdGltZT0xNTk5MjQxMzgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9d1pGOEdOZ1ZUd1hPa3NPQVozcElvbmR1bXVoaGc0QnFHSG9oVlozUGdtWT0=.m3u8
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 5
+https://n01.quest123.top:8088/stream/shd247cricket2/playlist.m3u8?id=9448&wowzasessionid=3265325492&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 6
+https://n01.quest123.top:8088/stream/spor0305/playlist.m3u8?id=9481&wowzasessionid=3578922821&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 7
+https://n01.quest123.top:8088/stream/sportswaycricket1/playlist.m3u8?id=9449&wowzasessionid=7825809966&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
+
+
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",CPL1
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",CPL2
@@ -37,6 +47,7 @@ http://tv.freecast123.com/tv/29Bi4bkZ1J20190929/chunklist_w1849439514_tkaGxzZW5k
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",CPL3
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",CPL4
+
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS 1 Portland – Los Angeles	 
 http://213.152.161.254:8080/upl3_2.m3u8
