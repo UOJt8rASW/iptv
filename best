@@ -17,6 +17,8 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1599285825/ei/
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gzBDq99.png",USL 2
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1599292606/ei/XvBSX66LK6qTgAfeurLQDQ/ip/2a01:4f8:150:5142::2/id/8O9fga8aAXc.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-4g5e6nsr.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/12240/mh/ZN/mm/44/mn/sn-4g5e6nsr/ms/lva/mv/m/mvi/2/pl/43/dover/11/keepalive/yes/mt/1599270861/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAL-TC_jSh6RU9Xea1doA_4EkviKsLXhbjbd2j2tJrDVkAiEAtHWK0t_RgRNEDEA8CS9_r9_--7N63ZDlQqgtHUXmeiQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAPF5YrJCEIRsfLnkWvaTtBzszxwTOS7rPkYCITpEegH-AiEA0NOyTwlTSRp9E3TSlO9yYiilJ2qQEvCg0vVun53PCo0%3D/playlist/index.m3u8
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Kazakhstan-Belarus
+
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
