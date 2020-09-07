@@ -17,17 +17,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1599285825/ei/
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gzBDq99.png",USL 2
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1599292606/ei/XvBSX66LK6qTgAfeurLQDQ/ip/2a01:4f8:150:5142::2/id/8O9fga8aAXc.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-4g5e6nsr.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/12240/mh/ZN/mm/44/mn/sn-4g5e6nsr/ms/lva/mv/m/mvi/2/pl/43/dover/11/keepalive/yes/mt/1599270861/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAL-TC_jSh6RU9Xea1doA_4EkviKsLXhbjbd2j2tJrDVkAiEAtHWK0t_RgRNEDEA8CS9_r9_--7N63ZDlQqgtHUXmeiQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAPF5YrJCEIRsfLnkWvaTtBzszxwTOS7rPkYCITpEegH-AiEA0NOyTwlTSRp9E3TSlO9yYiilJ2qQEvCg0vVun53PCo0%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Kazakhstan vs Belarus 1
-http://ul.cdn946.net:8080/hls/yu3w26c9imgo814.m3u8?s=quq18PN0SmUqRwCP8ct91w&e=1599507059
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Kazakhstan vs Belarus 2
-http://ul.cdn946.net:8080/hls/waqq3o4.m3u8?s=u03w_DrEOcA2x0KE2CdPaQ&e=1599507131
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Kazakhstan vs Belarus 3
-http://tv.freecast123.com/tv/DrcuyMDNYF20190901/chunklist_w1884466858_tkaGxzZW5kdGltZT0xNTk5NDg4NjQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9clpJQUtEdm9TWl9GdW5OY2lwckhsd2FsOW9hN0tfQ1pUNFB4Ty1FelEzRT0=.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Kazakhstan vs Belarus 4
-https://p07.quest123.top:8088/stream/socolivepro20017/playlist.m3u8?id=9515&wowzasessionid=901697979&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
@@ -74,8 +64,6 @@ http://video.assia.tv/hls/53.m3u8?md5=Wa1SLp88i6UJU1PluAqmdg&expires=1598409483
 
 
 
-#EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Main" tvg-logo="https://i.imgur.com/rCaIVvF.png",Euronews
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1582978009/ei/ef9ZXv-ILraS8gOVibpY/ip/31.18.121.146/id/9XFz8WGF3dc.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-i5h7lner.googlevideo.com/gcr/de/vprv/1/playlist_type/DVR/mm/44/mn/sn-i5h7lner/ms/lva/mv/u/mvi/0/pl/24/dover/11/keepalive/yes/fexp/23842630/mt/1582955849/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,gcr,vprv,playlist_type/sig/ADKhkGMwRAIgWToDlePGI7isQSfb-SUjnS8cnRnLX78cOv6tZVGJjHkCIETZ1xGEQXTW1cr8PxGZKpFkIwIV3DgS0OAWybVmCLTv/lsparams/hls_chunk_host,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRAIgZucOKgclD8OB3g_aezowTpozSJq-0cD2xPi3uhevmTwCIGMXkLwkmmvVc9SXc_LehDx6hhI_1vVi187yQML9oU6A/playlist/index.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Golden Arrows Channel
 https://115.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?id=44790&wowzasessionid=229377657&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
