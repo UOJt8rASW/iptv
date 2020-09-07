@@ -510,3 +510,24 @@ https://tv.bild-upload.com/rtlmm/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/vjXZDGk.jpg",RTL2
 https://tv.bild-upload.com/rtl2mm/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/DBM1GSo.png",DMAX
+https://tv.bild-upload.com/dmaxm/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/gOGHu36.png",PRO7
+https://tv.bild-upload.com/pro7m/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/uRQy7ke.png",VOX
+https://tv.bild-upload.com/voxmm/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/EbufRSQ.png",Kabel1
+https://tv.bild-upload.com/kabel1m/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/vKPQCtk.jpg",Tele5
+https://11.jetlivestream.com/hls/tele5.m3u8
+
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/Xz2jmLt.png",Kabel1 Doku
+https://tv.bild-upload.com/doku/tracks-v1a1/mono.m3u8
+
+
+
