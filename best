@@ -58,6 +58,8 @@ http://tv.freecast123.com/tv/6k6bIiEf4320190929/chunklist_w409848016_tkaGxzZW5kd
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",CPL4
 http://tv.freecast123.com/tv/vJ9lsiZFOE20190929/chunklist_w1090396455_tkaGxzZW5kdGltZT0xNTk5NTc4MTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9R3hEN0lfUFBGWmdYYl90VlJyMWtVc0wzemFyNnlEMENkMHVMcGVLU1ZkYz0=.m3u8
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",CPL5
+http://185.39.11.106:8081/live/skycricketsd1.m3u8?e=1599582756&st=1my_UYWr53X2Q1zPJIvPUQ
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS 1	 
 https://n01.quest123.top:8088/stream/shd247122/playlist.m3u8?id=9502&wowzasessionid=3357114896&pk=5f6004fd4690f0a278ef44d3d84726f4d98dbd5fa914aca801f1e6722b0dbb65
