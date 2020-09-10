@@ -526,7 +526,7 @@ https://test.bild-upload.com/hls/sixx.m3u8
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/xkrO0Cx.png",SUPER RTL
 https://wer22.wertvlive.com/hls/super.m3u8
 
-#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/xkrO0Cx.png",SAT1
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/Pbr2l6W.jpg",SAT1
 https://tv.bild-upload.com/sat1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/044pGa9.png",RTL Nitro
