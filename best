@@ -503,19 +503,19 @@ https://tv.bild-upload.com/ntv/tracks-v1a1/mono.m3u8
 https://tv.bild-upload.com/rtll/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/vjXZDGk.jpg",RTL2
-https://tv.bild-upload.com/rtl2mm/tracks-v1a1/mono.m3u8
+https://tv.bild-upload.com/rtl2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/DBM1GSo.png",DMAX
-https://tv.bild-upload.com/dmaxm/tracks-v1a1/mono.m3u8
+https://tv.bild-upload.com/dmax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/gOGHu36.png",PRO7
-https://tv.bild-upload.com/pro7m/tracks-v1a1/mono.m3u8
+https://tv.bild-upload.com/pro7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/uRQy7ke.png",VOX
-https://tv.bild-upload.com/voxmm/tracks-v1a1/mono.m3u8
+https://tv.bild-upload.com/vox/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/EbufRSQ.png",Kabel1
-https://tv.bild-upload.com/kabel1m/tracks-v1a1/mono.m3u8
+https://tv.bild-upload.com/kabel1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/vKPQCtk.jpg",Tele5
 https://11.jetlivestream.com/hls/tele5.m3u8
@@ -523,5 +523,19 @@ https://11.jetlivestream.com/hls/tele5.m3u8
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/Xz2jmLt.png",Kabel1 Doku
 https://tv.bild-upload.com/doku/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/xkrO0Cx.png",SUPER RTL
+https://wer22.wertvlive.com/hls/super.m3u8
+
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/xkrO0Cx.png",SAT1
+https://tv.bild-upload.com/sat1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/044pGa9.png",RTL Nitro
+https://wer22.wertvlive.com/hls/nitro.m3u8
+
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/E0eNGrO.jpg",Comedy Central
+https://test.bild-upload.com/hls/viva.m3u8
+
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/G33DU0n.jpg",PRO7 MAXX
+https://11.jetlivestream.com/hls/pro7maxx.m3u8
 
 
