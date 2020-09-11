@@ -499,10 +499,10 @@ https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
 https://tv.bild-upload.com/ntv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/upU8Imi.jpg",RTL
-https://1.bild-upload.com/rtl/tracks-v1a1/mono.m3u8
+https://tv.bild-upload.com/rtll/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/vjXZDGk.jpg",RTL2
-https://tv.bild-upload.com/rtl2q/tracks-v1a1/mono.m3u8
+https://tv.bild-upload.com/rtl2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/DBM1GSo.png",DMAX
 https://tv.bild-upload.com/dmax/tracks-v1a1/mono.m3u8
