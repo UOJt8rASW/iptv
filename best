@@ -68,7 +68,7 @@ http://tv.freecast123.com/tv/BI2drTR2fM20190929/chunklist_w315099595_tkaGxzZW5kd
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS 1	 
-http://45.134.21.230:8081/abr/abr-K-4/hls/K-4/chunks.m3u8?nimblesessionid=40748378
+http://213.152.161.254:8080/upl7_2.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS 2	 
 http://213.152.161.254:8080/upl12_2.m3u8
