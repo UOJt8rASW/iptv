@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",US Open Final
-http://185.39.10.32:8081/live/live16.m3u8?e=1600043467&st=LEQF0wBw7pOxizHdc4bVsQ
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/JSHLMEq.png",NFL 1
+http://185.39.10.15:8081/live/skyactionlsh.m3u8?e=1600138369&st=7HCwn5sVQiQ2lp_Kg9scog
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",US Open Tennis 1
