@@ -9,6 +9,9 @@ http://185.39.10.20:8081/live/live16.m3u8?e=1600196109&st=zKuk_WLUoeVs4GHMjQ7TYg
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/O4ZMLKO.png",DAZN 1 Bar HD
 http://185.233.186.251:8080/hls/streama131328/index.m3u8?st=6B5y2LLaeNEaYo3Rt6SnvQ
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/O4ZMLKO.png",PSG
+http://video.assia.tv/hls/64.m3u8?md5=OBjMvDFYhFWH8m5G1TSZIQ&expires=1600291396
+
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/d7bKFyl.png",Eurosport 1 HD GER
 http://194.76.186.12:8000/play/a00l/index.m3u8
 
