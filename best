@@ -6,6 +6,9 @@ http://185.39.10.15:8081/live/skyactionlsh.m3u8?e=1600138369&st=7HCwn5sVQiQ2lp_K
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/WIlJzKN.png",Nova Sport 1
 http://video.assia.tv/hls/64.m3u8?md5=OBjMvDFYhFWH8m5G1TSZIQ&expires=1600291396
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",copalib
+http://103.194.169.43:8080/hls/espnes/index.m3u8?st=32CMtGwr3jpQyMpWW7x9rw&e=1600306873
+
 
 
 
