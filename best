@@ -12,6 +12,9 @@ https://ul.cdn946.net:8443/hls/k6190w.m3u8?s=dNiZ6-m-CffI_sWmBxfp0Q&e=1600323826
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",copalib 2
 https://ul.cdn946.net:8443/hls/5s6m2r5g8t2d.m3u8?s=Htfx8cecozBOldU8sqCpYA&e=1600324042
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",copalib 3
+http://87.120.36.57:8080/hls/streama131242/index.m3u8?st=VbUDAWGjQmeB28MQLzZLBQ
+
 
 
 
