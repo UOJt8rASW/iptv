@@ -14,17 +14,7 @@ https://ul.cdn946.net:8443/hls/z0tt7.m3u8?s=EkFbZowEWFM8nuN-XHH3bA&e=1600467115
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/JSHLMEq.png",NFL 1
 http://185.39.10.15:8081/live/skyactionlsh.m3u8?e=1600138369&st=7HCwn5sVQiQ2lp_Kg9scog
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/WIlJzKN.png",Nova Sport 1
-http://video.assia.tv/hls/64.m3u8?md5=OBjMvDFYhFWH8m5G1TSZIQ&expires=1600291396
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",copalib 1
-https://ul.cdn946.net:8443/hls/k6190w.m3u8?s=dNiZ6-m-CffI_sWmBxfp0Q&e=1600323826
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",copalib 2
-https://ul.cdn946.net:8443/hls/5s6m2r5g8t2d.m3u8?s=Htfx8cecozBOldU8sqCpYA&e=1600324042
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",copalib 3
-http://87.120.36.57:8080/hls/streama131242/index.m3u8?st=VbUDAWGjQmeB28MQLzZLBQ
 
 
 
@@ -88,7 +78,7 @@ https://ul.cdn946.net:8443/hls/yxc0p2c05sf8y1.m3u8?s=ym8p_bZyI_TOQZPuiOaK6A&e=16
 http://sv1.nflstream.buzz/live/TNT/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
-https://ul.cdn946.net:8443/hls/8luusfwv0.m3u8?s=NiYmJGUZEkgc2IHhHLjVnQ&e=1600308537
+https://ul.cdn946.net:8443/hls/8luusfwv0.m3u8?s=tQpWBiWnjrYg7ju2beXrUw&e=1600542189
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
 http://tv.freecast123.com/tv/xaYIcV6v9K20190901/chunklist_w84534827_tkaGxzZW5kdGltZT0xNjAwMjg2NzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9alZaRVpTNWpEVTJselBKdmpfMmlmSm5MQTREQndLbnNzMUdIRW11eEg0az0=.m3u8
