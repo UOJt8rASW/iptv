@@ -52,25 +52,25 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1599973165/ei/
 
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 0
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 0
 https://ul.cdn946.net:8443/hls/lv2dn79af5e.m3u8?s=JJaXfY9x9C5B_vcmAzmeQw&e=1600665857
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1
 http://185.39.10.15:8081/live/nba4sd3.m3u8?e=1600644872&st=MEHFDGonibh1uxoKArLwsA
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 2
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 2
 http://23.237.79.20:8080/hls1/west2.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 3
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 3
 http://ul.cdn946.net:8080/hls/lv2dn79af5e.m3u8?s=3_hSoICcNkBmXDYs0juS6g&e=1600665071
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 4
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 4
 http://45.134.21.230:8081/abr/abr-K-2/hls/K-2/chunks.m3u8?nimblesessionid=54270068
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 5
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 5
 https://n01.quest123.top:8088/stream/sportsway209/playlist.m3u8?id=9842&wowzasessionid=3827178502&pk=9b542e8701be76eac4b742e12e2597483e665a712a97201f86e38f38e4c08da9
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 6
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 6
 https://ul.cdn946.net:8443/hls/xi5ubsrwbg.m3u8?s=0IT36Nc3vnY0xGx0nY0aiw&e=1600665575
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
