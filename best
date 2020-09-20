@@ -50,8 +50,13 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1599973165/ei/
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gzBDq99.png",USL 2
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA
-http://porshabvotolatoa.s3.amazonaws.com/celibe_tnt_24.m8
+
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 0
+https://ul.cdn946.net:8443/hls/lv2dn79af5e.m3u8?s=JJaXfY9x9C5B_vcmAzmeQw&e=1600665857
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1
+http://185.39.10.15:8081/live/nba4sd3.m3u8?e=1600644872&st=MEHFDGonibh1uxoKArLwsA
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 2
 http://23.237.79.20:8080/hls1/west2.m3u8
