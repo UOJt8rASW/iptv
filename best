@@ -74,8 +74,16 @@ https://n01.quest123.top:8088/stream/sportsway209/playlist.m3u8?id=9842&wowzases
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 6
 https://ul.cdn946.net:8443/hls/xi5ubsrwbg.m3u8?s=0IT36Nc3vnY0xGx0nY0aiw&e=1600665575
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
 http://185.39.11.106:8081/live/skycricketsd1.m3u8?e=1601054529&st=H2B_A1m6IWtMKLjIe15SnA
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
+http://185.39.10.20:8081/live/skycricketsd1.m3u8?e=1601047480&st=Sgm_hsZbnMjpU1TSsBjCQQ
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 3
+http://185.39.10.32:8081/live/skycricketsd1.m3u8?e=1601054785&st=YfILVNmFMk9M4uRWce5H9Q
+
+
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS 1	 
