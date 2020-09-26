@@ -49,10 +49,8 @@ https://cdk.dailysportlist.xyz/epl1/1.m3u8
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1
-http://185.39.10.88:8081/live/nba1sd3.m3u8?e=1600905388&st=8XeBco5nAoUfLF_jwKYUOg
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1 HD
-http://vm3.olins.xyz/hls/lshnba1hd196/chunks.m3u8?nimblesessionid=6456&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDEyOjA3OjQwIEFNJmhhc2hfdmFsdWU9SXlFYlJRK0FLTXVKY1doVVpiZGpyQT09JnZhbGlkbWludXRlcz03MA==
 
 
 
@@ -91,6 +89,9 @@ https://gma2.blab.email/espnu.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC
 http://tv.cast4u.live/tv/saUgXjxtZ220190901/chunklist_w703109312_tkaGxzZW5kdGltZT0xNjAxMTYyNjQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9U1p3Y2t3MjE4WVl1MGxmZ3FMVEZSYmtXd3ZyNWpHQ2l0S3NqeGR3MnVDbz0=.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC 2
+https://ul.cdn946.net:8443/hls/3prrqie92.m3u8?s=jnQb0KE3IlyV2Cm8SyQ0FA&e=1601181987
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s138 13092020
 https://media.notahoneypot.me/s138.m3u8
