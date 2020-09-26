@@ -42,7 +42,6 @@ https://cdk.dailysportlist.xyz/epl1/1.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/XFZ6oWb.jpg",NHL
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gzBDq99.png",USL 1
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1599973165/ei/zVJdX5DhAZuX-gbzlJ2oDw/ip/2a01:4f8:150:5142::2/id/QbLWRoZvt_E.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-4g5e6nes.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/8680/mh/Yp/mm/44/mn/sn-4g5e6nes/ms/lva/mv/m/mvi/5/pl/40/dover/11/keepalive/yes/mt/1599951445/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAMFyIbjnC2uLhZMdkCgXi2NJxiphxHimF_XexqykeQlwAiBPy1DG5Ld0ie9g-Rj4T5Hz6GQuX-rFAe5yrpAHebXQRQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgCqGY4xXlLpJM7_6F9nENZsaZxTkAEmbuwKH07frWJ2kCIQCYyDYsZjeQA3krpoh4w5OfSQHVBkfaF7a29-7cJYDFtQ%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gzBDq99.png",USL 2
 
@@ -55,20 +54,7 @@ http://185.39.10.88:8081/live/nba1sd3.m3u8?e=1600905388&st=8XeBco5nAoUfLF_jwKYUO
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1 HD
 http://vm3.olins.xyz/hls/lshnba1hd196/chunks.m3u8?nimblesessionid=6456&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDEyOjA3OjQwIEFNJmhhc2hfdmFsdWU9SXlFYlJRK0FLTXVKY1doVVpiZGpyQT09JnZhbGlkbWludXRlcz03MA==
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 2
-http://23.237.79.20:8080/hls1/west2.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 3
-http://ul.cdn946.net:8080/hls/lv2dn79af5e.m3u8?s=3_hSoICcNkBmXDYs0juS6g&e=1600665071
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 4
-http://45.134.21.230:8081/abr/abr-K-2/hls/K-2/chunks.m3u8?nimblesessionid=54270068
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 5
-https://n01.quest123.top:8088/stream/sportsway209/playlist.m3u8?id=9842&wowzasessionid=3827178502&pk=9b542e8701be76eac4b742e12e2597483e665a712a97201f86e38f38e4c08da9
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 6
-https://ul.cdn946.net:8443/hls/xi5ubsrwbg.m3u8?s=0IT36Nc3vnY0xGx0nY0aiw&e=1600665575
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
 http://185.39.11.106:8081/live/skycricketsd1.m3u8?e=1601054529&st=H2B_A1m6IWtMKLjIe15SnA
@@ -104,7 +90,7 @@ https://gma2.blab.email/espn2.m3u8
 https://gma2.blab.email/espnu.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC
-
+http://tv.cast4u.live/tv/saUgXjxtZ220190901/chunklist_w703109312_tkaGxzZW5kdGltZT0xNjAxMTYyNjQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9U1p3Y2t3MjE4WVl1MGxmZ3FMVEZSYmtXd3ZyNWpHQ2l0S3NqeGR3MnVDbz0=.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s138 13092020
 https://media.notahoneypot.me/s138.m3u8
