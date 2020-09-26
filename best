@@ -90,6 +90,9 @@ https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC 1
 https://ul.cdn946.net:8443/hls/hyhtubdiidbixd.m3u8?s=zOsksfvyjShEnTXWkl5PXw&e=1601185639
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC 2
+https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=DAgdDkOYh7cr6L5wA_lhHQ&e=1601185854
+
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s138 13092020
 https://media.notahoneypot.me/s138.m3u8
 
