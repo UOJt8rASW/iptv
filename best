@@ -55,6 +55,8 @@ https://cdk.dailysportlist.xyz/epl1/1.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA ESP
 https://fdaily.dailysportlist.xyz/16/16.m3u8
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 2
+https://ul.cdn946.net:8443/hls/2vewskxuho8rq.m3u8?s=GJExlmRoQ-RP9m_t1in_KA&e=1601269797
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
