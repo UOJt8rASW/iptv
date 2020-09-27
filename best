@@ -49,8 +49,11 @@ https://cdk.dailysportlist.xyz/epl1/1.m3u8
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1
+http://185.39.11.35:8081/live/nba5sd3.m3u8?e=1601251193&st=7nT2uDpKu7GZho7TUaVqwg
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1 HD
+http://rx2.olins.xyz/hls/lshnba5hd167/manifest.mpd?nimblesessionid=15744&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIwIDExOjIwOjQyIFBNJmhhc2hfdmFsdWU9d0YvdDY2QmVGTHhJdjF1TlJFV3Rwdz09JnZhbGlkbWludXRlcz03MA==
+
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA ESP
 https://fdaily.dailysportlist.xyz/16/16.m3u8
