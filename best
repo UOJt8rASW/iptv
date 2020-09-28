@@ -18,25 +18,11 @@ http://213.152.161.254:8080/upl2_2.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",Tennis Channel 3
 http://213.152.161.254:8080/upl3_2.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/OkzCRwi.jpg",La Casa del Futbol
-https://cdk.dailysportlist.xyz/17/17.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/aSNnJ9k.png",Movistar Deportes 1
-https://xxx.dailysportlist.xyz/1/1.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/0P2L3Bo.png",bein Sports EN
-https://cdk.dailysportlist.xyz/2/2.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/0P2L3Bo.png",bein Sports ES
-https://cdk.dailysportlist.xyz/3/3.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/6SDkps5.png",La Liga Movistar
-https://cdk.dailysportlist.xyz/1/1.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/d7bKFyl.png",Eurosport
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/iBiNDGU.jpg",NFL RedZone
-https://cdk.dailysportlist.xyz/epl1/1.m3u8
+
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/XFZ6oWb.jpg",NHL
@@ -49,23 +35,19 @@ https://cdk.dailysportlist.xyz/epl1/1.m3u8
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1
-http://185.39.11.35:8081/live/nba5sd3.m3u8?e=1601251193&st=7nT2uDpKu7GZho7TUaVqwg
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1 HD
-http://rx2.olins.xyz/hls/lshnba5hd167/manifest.mpd?nimblesessionid=15744&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIwIDExOjIwOjQyIFBNJmhhc2hfdmFsdWU9d0YvdDY2QmVGTHhJdjF1TlJFV3Rwdz09JnZhbGlkbWludXRlcz03MA==
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA ESP
-https://fdaily.dailysportlist.xyz/16/16.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA POL
-https://ul.cdn946.net:8443/hls/iih3mo1e32g.m3u8?s=4Y1AcrxNDikDeH4uw05UNA&e=1601269797
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 2
-https://ul.cdn946.net:8443/hls/2vewskxuho8rq.m3u8?s=GJExlmRoQ-RP9m_t1in_KA&e=1601269797
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
+http://185.39.11.45:8081/live/skycricketsd1.m3u8?e=1601302285&st=abFmTe2DfWDmSFBZ-JjqPw
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
 
@@ -99,10 +81,8 @@ https://gma2.blab.email/espnu.m3u8
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC 01
-http://a.crackstreams.vip/show/ufc/chunks.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC 2
-https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=DAgdDkOYh7cr6L5wA_lhHQ&e=1601185854
 
 
 
