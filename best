@@ -50,8 +50,13 @@ http://213.152.161.254:8080/upl3_2.m3u8
 http://185.39.11.45:8081/live/skycricketsd1.m3u8?e=1601302285&st=abFmTe2DfWDmSFBZ-JjqPw
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
+https://ul.cdn946.net:8443/hls/7vaeiob6qdy29h.m3u8?s=zDmWH8qvHAS58vM3HoxEMw&e=1601322058
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 3
+https://ul.cdn946.net:8443/hls/nkvj9q7w6.m3u8?s=Je3WJMs6tQIvNa6eowNevA&e=1601322060
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 4
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=wFA4eThJYzylKLyELu1UXA&e=1601322141
 
 
 
