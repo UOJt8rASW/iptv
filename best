@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/Tz7juNl.png",EPL 2020
+http://185.39.10.32:8081/live/btsports1lsh58.m3u8?e=1601819802&st=xwyUb_cvfeRkJ9qJo32Jfw
+
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",BL1
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/JSHLMEq.png",NFL 1
