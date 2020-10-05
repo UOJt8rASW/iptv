@@ -45,6 +45,7 @@ http://213.152.161.254:8080/upl3_2.m3u8
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1
+http://185.39.10.32:8081/live/nba4sd3.m3u8?e=1601865154&st=LMPNW0EaADSFUDT7MnmF7w
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1 HD
 http://q.crackstreams.store/show/abc/chunks.m3u8
