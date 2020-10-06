@@ -9,8 +9,7 @@ http://185.39.10.32:8081/live/btsports1lsh58.m3u8?e=1601819802&st=xwyUb_cvfeRkJ9
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/MIMazMw.jpg",twitch
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",chetot
-http://makeuseof.azureedge.net/hls/skybox/chunks.m3u8
+
 
 
 
@@ -31,7 +30,7 @@ http://213.152.161.254:8080/upl3_2.m3u8
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/d7bKFyl.png",Eurosport
-
+https://g.troll.network/1a/1.m3u8
 
 
 
