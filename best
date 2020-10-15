@@ -81,8 +81,7 @@ http://213.152.161.254:8080/upl7_2.m3u8
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Golden Arrows Channel
-https://n02.quest123.top:8088/stream/GoldenArrowsChannel/playlist.m3u8?id=2012&pk=e04b8310b8ea03a8fd45969e76cfbd95086271995acdde11f9748e00a440c0c8&wowzasessionid=3904110041
-
+https://n01.quest123.top:8088/stream/GoldenArrowsChannel/playlist.m3u8?vidictid=185503274978&pk=e04b8310b8ea03a8fd45969e76cfbd95086271995acdde11f9748e00a440c0c8&id=2012
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/g6xPiH8.png",ESPN 1
