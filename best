@@ -80,8 +80,8 @@ http://213.152.161.254:8080/upl7_2.m3u8
 
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",GoldenArrowsChannel1
-https://106.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?vidictid=185646382188&pk=e04b8310b8ea03a8fd45969e76cfbd95086271995acdde11f9748e00a440c0c8&id=44790
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Goldenarrowschannel 1
+https://n03.quest123.top:8088/stream/GoldenArrowsChannel/playlist.m3u8?vidictid=18565216657&pk=e04b8310b8ea03a8fd45969e76cfbd95086271995acdde11f9748e00a440c0c8&id=2012
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/g6xPiH8.png",ESPN 1
