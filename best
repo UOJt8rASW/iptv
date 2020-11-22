@@ -94,9 +94,8 @@ https://gma2.blab.email/espn2.m3u8
 https://gma2.blab.email/espnu.m3u8
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC 1x
-http://34.120.87.210/show/cfu/chunks.m3u8
-
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC 255
+http://18.220.109.32/cfu.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",TUDN
 http://cdn102.thatisme.xyz/hls/ustream21/index.m3u8?st=UpAbNPEj4hI2eyQoTuahyg&e=1605768911
