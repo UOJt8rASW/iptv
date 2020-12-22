@@ -228,8 +228,8 @@ https://media.notahoneypot.me/s73.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-name="rtve" tvg-id="rtve" group-title="Main" tvg-logo="https://i.imgur.com/NUHnhuJ.jpg",rtve
+https://rtvelivestream.akamaized.net/la1_dvr_2750.m3u8
 
 
 #EXTINF:-1 tvg-name="Das Erste ARD HD" tvg-id="ARD.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
