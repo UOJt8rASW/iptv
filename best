@@ -1,101 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/Tz7juNl.png",EPL 2020
-http://185.39.10.32:8081/live/btsports1lsh58.m3u8?e=1601819802&st=xwyUb_cvfeRkJ9qJo32Jfw
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",BL1
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/JSHLMEq.png",NFL 1
-
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/MIMazMw.jpg",twitch1
 https://video-weaver.ams02.hls.ttvnw.net/v1/playlist/CvMEL9cbsHJlCxHMPZv63jViczoJsKaz2Sh5V-2BznW-sHQbAtcs-Bx6IF8RPdGusKr6drAS1qeA_M9z63tjAWuB2UumT_Oucid6dVXRNrfQ_J0R4CvG7mYAC8i5QOR1CbyGJ10PKIlXkylTOsAgxxvTKe906YVY4MFdWRzk_8vvE9QQCnPI-iqy1UVUIAQHEsHZAUmocweCHEB8jO6-MXtTN46rn1bOpV9MHVFq5uJMwSEVUs8H1cZPh8lNdq1TKTNvrV_23r8ZTzEkHDocNEfxHvWptXJ2qsUR3BVTw3EHMybxTee7s7octkpJRpJT3OSRDfHGcyJzXiJWFWCVRNriNYqnHGMuoDcsKOlXgkUVUym5sQ2L-Ah9s-XVGXwXMffriBYJQc1U1T8ZUdNyW7n0YBPp6GCRykXOL4qMvF0gs8I1HEQjlvm4VIzqxx4KFpu52hXEglfLhL-CQa4_mcrlbt_Dny7HEbcKEntqmYwEGWFIVfzHoIFxLa55WwoRBLPNAn4Yz07d27cUNhN9qTEivpXaOTmyN1nGtJcqNV5nHQFBSuJXCMDFY0CwvSBdSjXhqAWt2xFY3F3CG-PwTOJzKR_bM1zKO5ZD2w0HX0UPhXOcnyP1PvpK6rRWm2LfzBf_1EgGMu51G_FPq1tF2LcQLH_ej30kY_bB43aYjREQb6eIL22_fjUODLnhRkpnKOf_LKID0B5EtiXGPoUplqieVhUhs6yEg6zXqAh9NABhPHQI3R0p4TI-sfDesjmK3boUxLj5R-EvzEyc8Iw_sCR9Cj_QqSdg-5wt09gQtH92oaSj3KxGQPbSck3Iszh7ZRt17mUcEhBEDBZFd8Ot_SjE93r2KfX_GgzBD0lAT9ElsCNVjBw.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Tennis" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",Tennis Channel 0
-http://185.39.11.106:8081/live/philippe.m3u8?e=1601311713&st=NMwKrKnoCUGvrn3ACd7YdQ
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Tennis" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",Tennis Channel 1
-http://213.152.161.254:8080/upl6_2.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Tennis" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",Tennis Channel 2
-http://213.152.161.254:8080/upl2_2.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Tennis" tvg-logo="https://i.imgur.com/TFJFWBc.jpg",Tennis Channel 3
-http://213.152.161.254:8080/upl3_2.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/d7bKFyl.png",Eurosport
 https://g.troll.network/1a/1.m3u8
 
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/XFZ6oWb.jpg",NHL
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gzBDq99.png",USL 1
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gzBDq99.png",USL 2
-
-
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1
-http://185.39.10.32:8081/live/nba4sd3.m3u8?e=1601865154&st=LMPNW0EaADSFUDT7MnmF7w
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 1 HD
-http://1-15569405.us-east-2.elb.amazonaws.com/show/abc/chunks.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA ESP
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA POL
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="NBA" tvg-logo="https://i.imgur.com/yznkgk3.jpg",NBA 2
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Cricket" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 1
-http://185.39.11.45:8081/live/skycricketsd1.m3u8?e=1601302285&st=abFmTe2DfWDmSFBZ-JjqPw
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Cricket" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 2
-http://185.39.11.33:8081/live/skycricketsd1.m3u8?e=1601304405&st=RyV-O12AQMf6p3mjqBiSvQ
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Cricket" tvg-logo="https://i.imgur.com/BtiVRbc.jpg",Cricket 3
-http://185.39.10.32:8081/live/skycricketsd1.m3u8?e=1601309721&st=c5Hhn86173cRgEjQvpIqXA
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS 1	 
-http://213.152.161.254:8080/upl7_2.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS 2	 
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/gSAdA8Y.png",MLS 3
-
-
-
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Goldenarrowschannel
 https://109.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?vidictid=185674507769&pk=e04b8310b8ea03a8fd45969e76cfbd95086271995acdde11f9748e00a440c0c8&id=44790
 
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/g6xPiH8.png",ESPN 1
-https://gma2.blab.email/espn.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/6g8BV0o.png",ESPN 2
-https://gma2.blab.email/espn2.m3u8
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/QXXStSc.png",ESPNU College
-https://gma2.blab.email/espnu.m3u8
-
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/7KIeRbJ.png",UFC 255
-http://18.220.109.32/cfu.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",LOKOOST
 http://46.174.189.50:8082/matchpremer/tracks-v1a1/mono.m3u8
@@ -227,9 +141,6 @@ https://media.notahoneypot.me/s72.m3u8
 https://media.notahoneypot.me/s73.m3u8
 
 
-
-#EXTINF:-1 tvg-name="rtve" tvg-id="rtve" group-title="Main" tvg-logo="https://i.imgur.com/NUHnhuJ.jpg",rtve
-https://rtvelivestream.akamaized.net/la1_dvr_2750.m3u8
 
 
 #EXTINF:-1 tvg-name="Das Erste ARD HD" tvg-id="ARD.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
