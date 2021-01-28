@@ -11,7 +11,7 @@ https://g.troll.network/1a/1.m3u8
 https://109.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?vidictid=185674507769&pk=e04b8310b8ea03a8fd45969e76cfbd95086271995acdde11f9748e00a440c0c8&id=44790
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",LOKOOST
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",matchtvpremru
 http://46.174.189.50:8082/matchpremer/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",s138 13092020
