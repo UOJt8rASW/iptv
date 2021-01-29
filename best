@@ -8,8 +8,7 @@ https://video-weaver.ams02.hls.ttvnw.net/v1/playlist/CvMEL9cbsHJlCxHMPZv63jViczo
 https://g.troll.network/1a/1.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Goldenarrowschannel
-https://109.liveflashplayer.org:8088/stream/GoldenArrowsChannel2019/playlist.m3u8?vidictid=185674507769&pk=e04b8310b8ea03a8fd45969e76cfbd95086271995acdde11f9748e00a440c0c8&id=44790
-
+https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/2qp8mspjq8hfl.m3u8?s=rR1V3W9MJjCnAr4wNSxfKg&e=1611979737
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",matchtvpremru
 http://46.174.189.50:8082/matchpremer/tracks-v1a1/mono.m3u8
