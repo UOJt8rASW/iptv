@@ -4,8 +4,8 @@
 https://video-weaver.ams02.hls.ttvnw.net/v1/playlist/CvMEL9cbsHJlCxHMPZv63jViczoJsKaz2Sh5V-2BznW-sHQbAtcs-Bx6IF8RPdGusKr6drAS1qeA_M9z63tjAWuB2UumT_Oucid6dVXRNrfQ_J0R4CvG7mYAC8i5QOR1CbyGJ10PKIlXkylTOsAgxxvTKe906YVY4MFdWRzk_8vvE9QQCnPI-iqy1UVUIAQHEsHZAUmocweCHEB8jO6-MXtTN46rn1bOpV9MHVFq5uJMwSEVUs8H1cZPh8lNdq1TKTNvrV_23r8ZTzEkHDocNEfxHvWptXJ2qsUR3BVTw3EHMybxTee7s7octkpJRpJT3OSRDfHGcyJzXiJWFWCVRNriNYqnHGMuoDcsKOlXgkUVUym5sQ2L-Ah9s-XVGXwXMffriBYJQc1U1T8ZUdNyW7n0YBPp6GCRykXOL4qMvF0gs8I1HEQjlvm4VIzqxx4KFpu52hXEglfLhL-CQa4_mcrlbt_Dny7HEbcKEntqmYwEGWFIVfzHoIFxLa55WwoRBLPNAn4Yz07d27cUNhN9qTEivpXaOTmyN1nGtJcqNV5nHQFBSuJXCMDFY0CwvSBdSjXhqAWt2xFY3F3CG-PwTOJzKR_bM1zKO5ZD2w0HX0UPhXOcnyP1PvpK6rRWm2LfzBf_1EgGMu51G_FPq1tF2LcQLH_ej30kY_bB43aYjREQb6eIL22_fjUODLnhRkpnKOf_LKID0B5EtiXGPoUplqieVhUhs6yEg6zXqAh9NABhPHQI3R0p4TI-sfDesjmK3boUxLj5R-EvzEyc8Iw_sCR9Cj_QqSdg-5wt09gQtH92oaSj3KxGQPbSck3Iszh7ZRt17mUcEhBEDBZFd8Ot_SjE93r2KfX_GgzBD0lAT9ElsCNVjBw.m3u8
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Goldenarrowschannel
-https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/2qp8mspjq8hfl.m3u8?s=kWKKbePngxGot3glE6YLgQ&e=1612119301
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Goldenarrowschannel 1
+https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/2qp8mspjq8hfl.m3u8?s=XOnFMv2TzIh_XjPsymBpLg&e=1612141510
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",matchtvpremru
 http://46.174.189.50:8082/matchpremer/tracks-v1a1/mono.m3u8
