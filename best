@@ -28,6 +28,9 @@ https://95-213-224-175.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/t5bgdro.jpg",Tennis
 http://87.120.36.57:8080/hls/streama149236/index.m3u8?cst=75c1003942a72504d485bbe6beca158f
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TmWDqNe.png",UFC
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/ubqnbz9ru.m3u8?s=sgM3BD_QqC9FgvevzjbxRw&e=1615695975
+
 
 
 
