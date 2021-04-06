@@ -12,6 +12,9 @@ http://46.174.189.50:8082/matchpremer/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",konf
 https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/itg06z14x1h.m3u8?s=8NzSU09uXabOKItGdfzwkA&e=1617759663
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",konf2
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/8w87zdvc8c4.m3u8?s=SBaVQurTOooeuqirT6lklg&e=1617759834
+
 
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/sehPBES.jpg",NHL
