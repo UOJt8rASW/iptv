@@ -9,11 +9,16 @@ https://dbghae58x7vt67da.ezcdn483.net:8443/hls/2qp8mspjq8hfl.m3u8?s=smoQ8GYz-9YB
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",matchtvpremru
 http://46.174.189.50:8082/matchpremer/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",konf
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/itg06z14x1h.m3u8?s=8NzSU09uXabOKItGdfzwkA&e=1617759663
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",konf11
+http://185.53.88.25:8080/hls/streama155414/index.m3u8?cst=d6dfdc891fd08606dfd0824bec9a088d
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",konf2
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/8w87zdvc8c4.m3u8?s=SBaVQurTOooeuqirT6lklg&e=1617759834
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",konf22
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/xaz4jv523eej2.m3u8?s=zIA78FvnVeyQKxGRQGzjgQ&e=1617841831
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",konf33
+http://103.145.12.195:8080/hls/streama155447/index.m3u8?cst=d6a9c486a49cd866914d97a2561b4b5c
+
+
 
 
 
