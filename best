@@ -43,8 +43,9 @@ https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/10xd0xpdp.m3u8?s=vtq5qkLmTccjry-V
 
 
 
-#EXTINF:-1 tvg-name="Das Erste ARD HD" tvg-id="ARD.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD 1 HD
-https://mcdn.daserste.de/daserste/de/master_3628.m3u8
+#EXTINF:-1 tvg-name="Das Erste ARD HD" tvg-id="ARD.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+
 
 
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF FULL HD
