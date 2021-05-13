@@ -49,7 +49,7 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 
 
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF FULL HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
