@@ -6,8 +6,7 @@ https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CokEvOSJXP2y0hKek-5092sn15h
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Goldenarrowschannel1
 https://dbghae58x7vt67da.ezcdn483.net:8443/hls/2qp8mspjq8hfl.m3u8?s=smoQ8GYz-9YBYulToRNm4w&e=1615146450
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",matchtvpremru
-http://46.174.189.50:8082/matchpremer/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",konf1
 http://87.120.36.32:8080/hls/streama156156/index.m3u8?cst=e16a7e46429d2fe8e740fda0a3224cdd
@@ -44,7 +43,8 @@ https://emqf7d2bfb.azcdn728.net:8443/hls/xajszmbai6t.m3u8?s=1VFs1KQnN_Qbdc0zJxjI
 #EXTINF:-1 tvg-name="Das Erste ARD HD" tvg-id="ARD.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
-
+#EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF eins HD
+https://orf1.mdn.ors.at/out/u/orf1/q6a/manifest_6.m3u8
 
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF FULL HD
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
