@@ -8,9 +8,8 @@ https://dbghae58x7vt67da.ezcdn483.net:8443/hls/2qp8mspjq8hfl.m3u8?s=smoQ8GYz-9YB
 
 
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Aberdeen - Dundee United
-https://z.wmsxx.com:30443/live/9/chunks.m3u8?nimblesessionid=4599836&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjEgMTozNzoyNiBQTSZoYXNoX3ZhbHVlPUxTWGx3QUsrSG1YbUVoVHA4OTZwbkE9PSZ2YWxpZG1pbnV0ZXM9MTIw
-
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",Aberdeen - Dundee United 2
+https://x.wmsxx.com:30443/live/9/chunks.m3u8?nimblesessionid=4575714&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjEgMTo0MDoxNyBQTSZoYXNoX3ZhbHVlPUtQc2xnS0JvaHZBd2dla3VaamI2UVE9PSZ2YWxpZG1pbnV0ZXM9MTIw
 
 
 
