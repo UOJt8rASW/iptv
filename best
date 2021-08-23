@@ -25,6 +25,9 @@ http://87.120.36.57:8080/hls/streama149236/index.m3u8?cst=75c1003942a72504d485bb
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TmWDqNe.png",UFC 263
 https://emqf7d2bfb.azcdn728.net:8443/hls/xajszmbai6t.m3u8?s=1VFs1KQnN_Qbdc0zJxjIPw&e=1623572340
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/jlXbjvx.png",bild TV
+https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/master.m3u8
+
 
 #EXTINF:-1 tvg-name="Das Erste ARD HD" tvg-id="ARD.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
