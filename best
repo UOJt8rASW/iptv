@@ -18,8 +18,8 @@ http://87.120.36.57:8080/hls/streama149085/index.m3u8?cst=a87439216752c4cff66976
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/sehPBES.jpg",NHL 2
 https://95-213-224-175.livesports24.online/rusetantaeurasia.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/t5bgdro.jpg",Tennis
-http://87.120.36.57:8080/hls/streama149236/index.m3u8?cst=75c1003942a72504d485bbe6beca158f
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/t5bgdro.jpg",Tsitsipas Alcaraz
+http://87.120.36.57:8080/hls/streama169475/index.m3u8?cst=27b5b59053954140a6987cacbf34f44a
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TmWDqNe.png",UFC 263
 https://emqf7d2bfb.azcdn728.net:8443/hls/xajszmbai6t.m3u8?s=1VFs1KQnN_Qbdc0zJxjIPw&e=1623572340
