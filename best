@@ -6,7 +6,8 @@ https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CokEvOSJXP2y0hKek-5092sn15h
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Goldenarrowschannel1
 https://dbghae58x7vt67da.ezcdn483.net:8443/hls/2qp8mspjq8hfl.m3u8?s=smoQ8GYz-9YBYulToRNm4w&e=1615146450
 
-
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/OMvvt2N.png",CBS SPORTS
+http://tv247.club/hls/cbsnw.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",BVB 
 http://87.120.36.32:8080/hls/streama162569/index.m3u8?cst=1b718eb8ef126a003ab30a3894c2eef4
