@@ -326,6 +326,9 @@ http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
 
+#EXTINF:-1 tvg-name="OK Kiel" tvg-id="OK Kiel" group-title="Main" tvg-logo="https://i.imgur.com/ESwwfu1.jpg",RTL NEU
+https://s10.hopslan.com/rtl1/tracks-v1a1/mono.m3u8?token=df169a12b3dead02b07023c6bc9018efd9327a1d-faab9d52257466ac55aea9f2c17875f0-1631819291-1631808491
+
 
 
 
