@@ -9,8 +9,8 @@ https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/2qp8mspjq8hfl.m3u8?s=7M-xgdUTxvjl
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/OMvvt2N.png",CBS SPORTS NETWORK
 https://h1.ustvgo.la/CBSSN/myStream/chunks.m3u8?nimblesessionid=99658479&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDg6NTY6NTcgUE0maGFzaF92YWx1ZT1BRWJnWSs5VFdhK2FkUm1MM2RsdWdRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",DFBPOK
-http://198.144.159.43/8LUKIaQB3CsPmJonVAjLPA/1635294992/33312e31372e3136332e313337/ff26/playlist.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CLKONF
+http://185.53.88.145:8080/hls/streama170497/index.m3u8?cst=292958c143fbc6d14bb5910018083955
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/sehPBES.jpg",NHL
 http://87.120.36.57:8080/hls/streama149085/index.m3u8?cst=a87439216752c4cff66976d682c77d0d
