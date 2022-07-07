@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/MIMazMw.jpg",twitch123
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/MIMazMw.jpg",twitch
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CpQEuW8nEfjuIPBbGN7a9P6vRvYGQC2rH0rzbxjSFO9Pzg49S-7PvkpPEvcrqoSSvVi2HBz0w-NCcf3V5Vrw-vQjFv5B8TaK9yK7sWwdrT91469C7r2k4MbaJvF5EE3pKwcmkgx33cv7DD4JT7gvMcYLQfcf43jey3sRA98zsbKjmZcvRtYEYGyqEzobAfTzcIMVLg2fLx8BmoyM4bzwK3DKWQPCnz2hRWBbKoJLqaiHhCTFfEsZzWkpK9-zamYXnbD1cAmtFGCjQpkqgi6tMxgwaD75g6cu5GuNfJWGyafiMyC9vHVydQ4VUPqJoE42Sv-onsSOa4AgcPXuwzcDw2OLB7tc2sNjOXNJhrkHv5SbAwYSG6Htv7zDkBT0kg5kCnACIpVK_CmHQZjo3_u4QTQFx-zEYt9j79ad3oQ15W6yWx2ntTcUBYqFD7HoKWUHsr1MwpXJrURRup2eGLlMO-96dzkeF__4YP4r3LffSAHWb-ttYiBYWKp_vb-sHuCS1IpxwiEPn01ZMdSBILUPWB_vzteALkituBAGlXdzxjYFXyglFTOnrb_zRi4KqOj9oKwWyjCARIuiW8CuVcTMyVYAWJjNDxDecwKuCpRFsqa6H1C11n4L-eLs57xr7eJ1x4AtBiI-nXpb4lM6wsAifqtFMsknBmeHe6KrwDvfgvjdIKPq7R_yqe-N2nIvB9krz6Vpe5RkCxoMl_ReIU55icN6EJy7IAEqCWV1LXdlc3QtMjCHBA.m3u8
+
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Goldenarrowschannel
 https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/2qp8mspjq8hfl.m3u8?s=7M-xgdUTxvjlCKtxZfSiOQ&e=1633311790
