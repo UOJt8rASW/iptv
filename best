@@ -3,29 +3,7 @@
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/MIMazMw.jpg",twitch1
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CpQELDCtaVUnWXpXzaUQuNql73yqyeLE1KMsRhcW6hNc4_Cg5VkKQbv_s5mZPz1Aba5SgclPi3HKMYNHn8CayEyLN0ZrhUYV-qhcYGP3gElJg0AEVCFW5e1QHmFMrkqbzzfMi6dt4oRaJQ2-m5lAgBkSQdBLJk7WLCiQr1gVbPGz3jG3Q8y39fqu-y5LiNfMVm9ogxXRRNjqoxjqALFcycJtPLpf1AVKIqmNbk2Wf5WmzDUkf1LxGfOHXXSX5DQmNDZg4jr9xcw2oB9Da2neJqUTL_apLyPxRKDX4UkS6U2gmgqByUu2SeNy4mlIVVHnQu9rrthAVHu09J_c8V-4vecWXYndNjogvqRItuX2BUs8qWhuf53QISe2lGCNNB4EaKG__8lNMRgGhI-kVrxiKTJkgdIiQrY27olBMwn2kB3DBLt_IPrI7TGqyQL7zOCZLhqfsXcEVlSyxBCFjbkZaDduFwvce7rYkrABQ-4qEBWi4UWUn4_EyFPg1iG6JX9Mld1oCXiMXeg4hF12pNF2lLAgdW2KHYiFH3vmt43w6rpt2BRoJdBACFTJ4iwyaXOdUcOO42HcDcA6Y51PIlXqhXWzPpMgWN-kDNf-Bn-0-HMgrG9dJGgrmbUk183wSUcDWQfAH2AV3CMIv5GNt-HsJeqSMbg6RBjzrWR3gsmoYXO3is-OxKqvCe_AdeW7t4VWtTg9LbgbNxoMM-dAM23OMcR2hqbCIAEqCWV1LXdlc3QtMjCRBA.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/szxpvwY.jpg",Goldenarrowschannel
-https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/2qp8mspjq8hfl.m3u8?s=7M-xgdUTxvjlCKtxZfSiOQ&e=1633311790
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/OMvvt2N.png",CBS SPORTS NETWORK
-https://h1.ustvgo.la/CBSSN/myStream/chunks.m3u8?nimblesessionid=99658479&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDg6NTY6NTcgUE0maGFzaF92YWx1ZT1BRWJnWSs5VFdhK2FkUm1MM2RsdWdRPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/4czRKMS.jpg",CLKONF
-http://185.53.88.145:8080/hls/streama170497/index.m3u8?cst=292958c143fbc6d14bb5910018083955
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/sehPBES.jpg",NHL
-http://87.120.36.57:8080/hls/streama149085/index.m3u8?cst=a87439216752c4cff66976d682c77d0d
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/sehPBES.jpg",NHL 2
-https://95-213-224-175.livesports24.online/rusetantaeurasia.m3u8
-
-#EXTINF:-1 tvg-name="Serien" tvg-id="" group-title="Serien" tvg-logo="https://i.imgur.com/49KrXHJ.png",POK0102
-https://www4.megaupload.to/4ib56cp2fai7bh3jepsqko7pg44bc3d7cllkkukyxmjd5ozpbxzod56cg5nq/v.mp4
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/t5bgdro.jpg",Tsitsipas Alcaraz
-http://87.120.36.57:8080/hls/streama169475/index.m3u8?cst=27b5b59053954140a6987cacbf34f44a
-
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport Streams" tvg-logo="https://i.imgur.com/TmWDqNe.png",UFC 263
-https://emqf7d2bfb.azcdn728.net:8443/hls/xajszmbai6t.m3u8?s=1VFs1KQnN_Qbdc0zJxjIPw&e=1623572340
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/jlXbjvx.png",bildTV1
 https://bildlivehls-lh.akamaihd.net/i/bildtv247dach_1@107603/master.m3u8
@@ -83,8 +61,9 @@ http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="WELT" tvg-id="n24.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT N24
-http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+#EXTINF:-1 tvg-name="WELT" tvg-id="n24.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELTN24-NEU
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+
 
 #EXTINF:-1 tvg-name="phoenix" tvg-id="phoenix.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
@@ -336,5 +315,10 @@ https://s10.hopslan.com/rtl1/tracks-v1a1/mono.m3u8?token=df169a12b3dead02b07023c
 
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Main" tvg-logo="https://i.imgur.com/KkUjvxh.jpg",SKY SPORT NEWS HD
 https://websitefreestreaming.akamaized.net/11111_ssnweb/stream06/streamPlaylist.m3u8
+
+
+#EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
