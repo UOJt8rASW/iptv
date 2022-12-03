@@ -6,8 +6,12 @@ https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Cq0E_O83Dq3RxmYdsyRweXE9LTR
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/jlXbjvx.png",bildTV1
 https://bildlivehls-lh.akamaihd.net/i/bildtv247dach_1@107603/master.m3u8
 
-#EXTINF:-1 tvg-name="Das Erste ARD HD" tvg-id="ARD.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
+#EXTINF:-1 tvg-name="Das Erste ARD FULLHD" tvg-id="ARD.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:-1 tvg-name="Das Erste ARD HD720p" tvg-id="ARD.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD HD
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master_1280p_3200.m3u8
+
 
 #EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF eins HD
 https://orf1.mdn.ors.at/out/u/orf1/q6a/manifest_6.m3u8
