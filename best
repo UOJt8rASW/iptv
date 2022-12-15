@@ -6,7 +6,7 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CqkEL-dXBPETwCUWv54JHcpWE4k
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/jlXbjvx.png",bildTV1
 https://bildlivehls-lh.akamaihd.net/i/bildtv247dach_1@107603/master.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/DD1JbZe.png",ENGvsSEN
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/DD1JbZe.png",football-1-m3u
 http://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1670197583-0-0-4a7cf225505176ec3e943f0a07a3293f
 
 #EXTINF:-1 tvg-name="Das Erste ARD FULLHD" tvg-id="ARD.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD FULLHD
