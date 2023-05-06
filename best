@@ -9,7 +9,7 @@ https://bildlivehls-lh.akamaihd.net/i/bildtv247dach_1@107603/master.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/DD1JbZe.png",football-1-m3u
 http://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1670197583-0-0-4a7cf225505176ec3e943f0a07a3293f
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/zIf9i2E.png",PRO7 ran NFL
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/c8fKUas.png",PRO7
 https://s6.hopslan.com/pro7q1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/1TKeTk3.png",RTL
