@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/MIMazMw.jpg",twitch720p-11
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrwE5HMPzuqsxKt0JZk3yBcmbh8FW70vxtWCA1fvBfhtDtcid4HosycANFuHfiM8s6dah44KN_cUyjmcAr1hiKquLJ5oIhrmZXWMjvHFfYaAURxsxa9xSrnHme38GViTYYI8qISt3i3Ygphu0oGt6r0vr2xMau45IoFMobWH0AQzx9OVc0L4WkjglkjZDSO86OJSnF0sfZ9u90OgnS-8TKCG2ARve5ZUvVeXqlpkqJmDdyzMr5K57E2i2ztonN2ARwQhWGD5-hDKuk2JDWz3fNtAT1xUTZpbUwBkz-l_RlmPqxdEtLTqT6SOeG9RgqIZXH3BhIgnl6BApzaCaeKilXjaNN9l76NIrJEPLB73kinnE0vnWYbFw4TfPi4Ymzum5uLt8iwiPRjeyPwuWJPngwuHq9SiAAIRNf2uahifwI8DrbNBHLafPokTZ-9lAQpkmcH0lfSuPrqaSvPLbZziJI2C7EJXf52uX0EbpFIebUyBl1m55zc2TF5yribmowNV1FDqR94M6cA38k0PWs_tpizohX5QLAhW525z5yNtcDfUpzhIrhlghVnYsrb9FuI7wxTq-cBnFwwqUwS3Iw-MwTBNzPPVI_I13d1i1QHE4kRUDLCLvD38DIx45LqtD9GzGiRirA8sKz2jBIpPk4nkJ4YZa6sRJUR7249z1lggHDeO2hv1O27dIOBhKPb41qSzGnWWJjvcvVp8NRiM6emFSZ6DIzIMjl8gigU2XbOP5Jzmt5pVdSq83wRNJVjlKZ0aDLCtO_B09R8JXFyygyABKglldS13ZXN0LTEwtgI.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/MIMazMw.jpg",twitch720p-1
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrEEYN0RM7foHxZ5puMCuvDbhPgXnBxI_Qc5EocMuGFHZPGR5AJkSA2lQRdahS1gQHNJ60ioY8RzUKdVLYxR5GgsKDLAXGDfhwNgxjg1RoFd9vtAnH-awcJfeaKXot0o3MpKQHDdfE4Z7-lxCA4fARXVw9l4bgJeCw6RetIrwlWWDE1ACcIh_JWYyiE2IH_rv1hAdE146b-3RUFXsgaiNNrqzrp4JplWoWVkxwycM_bezXWjSShOJmfIgwoGy0tQeKjXq0kCedYfV0d2JoVegZYfJsl2NRoeaULtbPpvO8D9NQS0owkjJbX2Vdi_mx3-uHOYoY5MBvO9eqsXnFvGMNzkgcRIHWOxUG7QIjZHWEqW1Ja61fTXs_ygJo3IgYIl1SInIQtI5S6ZDSxUIlPYfwCU417VLGVl8B645wDHR36mZhavZqYsZoapQ4WiYxpZ12aonjRg3IzzjfTEZrfhnc6K6WgxSnxwJzrJkFCZzEu3ZpRzM4EnH_7eQq1w_WoF4jzR8CQckLjlmbPb8NIqbK4xV6t4A7dHcQqI6jHIwW-GnbhSjgkqYtXyp4o_AZ35DlbF1LH_FnU40-HJQ1OyPfJ92vVNfkE0ZNmFdoa75hB4O2NXiMceqGL6iKNak5aOXG4jnpjDvvhAl0hFsb_jZrf_5gqyw9c3mYbjz6flkOEQtEIbN7xP1iMJ6FUc7nUXVoB0j9nmgv3krxO7b8QkHWnTry4Fg3ajZw3bWLjb96_XbRb_GgzQNNr-21gZmYdR_XIgASoJZXUtd2VzdC0xMLYC.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/jlXbjvx.png",bildTV1
-https://bildlivehls-lh.akamaihd.net/i/bildtv247dach_1@107603/master.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/jlXbjvx.png",bildTV
+https://bild.personalstream.tv/v1/master.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/DD1JbZe.png",football-1-m3u
 http://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1670197583-0-0-4a7cf225505176ec3e943f0a07a3293f
