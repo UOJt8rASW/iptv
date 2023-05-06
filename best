@@ -12,6 +12,24 @@ http://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1670197583-0-0-4a7cf225
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/zIf9i2E.png",PRO7 ran NFL
 https://s6.hopslan.com/pro7q1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/1TKeTk3.png",RTL
+https://s6.hopslan.com/rtlu111/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/mGttQGp.png",RTL2
+https://s6.hopslan.com/rtl2q1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/CCYdvsg.png",ntv
+https://s6.hopslan.com/ntvv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/jcyUpFx.png",SAT1
+https://s6.hopslan.com/sat1q1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/K0SNkO5.png",SAT1 Gold
+https://s6.hopslan.com/goldc/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/2wZwmTV.png",N24 Welt
+https://s6.hopslan.com/n24/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Das Erste ARD FULLHD" tvg-id="ARD.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste ARD FULLHD
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
