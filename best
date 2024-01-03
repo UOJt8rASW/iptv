@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/MIMazMw.jpg",twitch720p-11
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtYEdq6ZnvIOUikzRoJoAzWaJl2bOLDZjUBOgYGFu9Dqe2rj1SoqrRVkg0Aj8SvD3Gzjamlzg2f1ZBcFkN8v6Z3FsvaC9TOOnuYZ_QNvEr079Yvqw0kQqNLe0Rrog3j1dRE9fLIvIkGCxi74ujQcVnBpqfQaZkM6IDrZ6rxaBmzNxQTJlnR4adCXNMBYcUi4QJs2JnVGO7HIp0OMrI4pgrM0Jz3Yh1P8EVnQEiMKbiMHqa6i9MxUEU3RO6kdsFhu2ZIdWla5T1sXFaWqIQBt61jY28XBRYW7qdxz5vT9LzqWUBZC-dfNjnljxyWvod77mvCZrdwn7oxm9UXNkHCRE6WjVb3EsmVSBimYS_oDrXZYYyplChf2Dj2taqmVXh7Ah5aTf181VHlf1hlUJdf6BweodNDeiJjlWwKKCZ4H3ogDuP-8sV7VdFAkJnbsPMNjYqS1VCAJshaCGTqCniT-5aQBgEh4yWY-YGMKLf4PGpw9dnJz9u52Gpv9DtjlwQ2iYftT2mLVCZqgZODfG94JuwrPjVwkC8IPlFD0EjgsgZbGNHZV8Onjng_7oi0JPnIUU5NknmkZCxmiyYjaca53X8wWele6ohstRDXOxlUnyKCzO_Jze7f1o7Lw2Li_gN8SihfHRwuJaRG7Xij-eVtjGW4TqX9xXLL6iADPqUS6SnCU5Jx3KnQ0eznBzyhL4c8tiBKMx-2oHyobQRFQG2jDHBee01IRLDr-L8zfVHwQn1h7o-9wTCeWPBf7rlGqLujVUpTEFxsEq0mlY4DEWecoCxz-jgDC8TME2RoM3-wMucSD1MD0AI4qIAEqCWV1LXdlc3QtMTCHAw.m3u8
 
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/7TaIrsi.png",DF1 HD
+https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
+
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/fIl4jKC.jpg",DOKUSAT HD
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/jlXbjvx.png",bildTV
 https://bild.personalstream.tv/v1/master.m3u8
 
