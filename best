@@ -21,8 +21,8 @@ http://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1670197583-0-0-4a7cf225
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/c8fKUas.png",PRO7
 https://s6.hopslan.com/pro7q1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/1TKeTk3.png",RTL
-https://s6.hopslan.com/rtlu111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/1TKeTk3.png",RTL HD
+https://s6.hopslan.com/rtlq1/tracks-v1a1/mono.m3u8?token=60d262cf9367731a6f10fe748d7ac29660c4e7c3-8e65bbd8e73bb85209b7e8d73dea009e-1705881125-1705870325
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/mGttQGp.png",RTL2
 https://s6.hopslan.com/rtl2q1/tracks-v1a1/mono.m3u8
