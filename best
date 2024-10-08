@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/MIMazMw.jpg",twitch720p-11
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtYEdq6ZnvIOUikzRoJoAzWaJl2bOLDZjUBOgYGFu9Dqe2rj1SoqrRVkg0Aj8SvD3Gzjamlzg2f1ZBcFkN8v6Z3FsvaC9TOOnuYZ_QNvEr079Yvqw0kQqNLe0Rrog3j1dRE9fLIvIkGCxi74ujQcVnBpqfQaZkM6IDrZ6rxaBmzNxQTJlnR4adCXNMBYcUi4QJs2JnVGO7HIp0OMrI4pgrM0Jz3Yh1P8EVnQEiMKbiMHqa6i9MxUEU3RO6kdsFhu2ZIdWla5T1sXFaWqIQBt61jY28XBRYW7qdxz5vT9LzqWUBZC-dfNjnljxyWvod77mvCZrdwn7oxm9UXNkHCRE6WjVb3EsmVSBimYS_oDrXZYYyplChf2Dj2taqmVXh7Ah5aTf181VHlf1hlUJdf6BweodNDeiJjlWwKKCZ4H3ogDuP-8sV7VdFAkJnbsPMNjYqS1VCAJshaCGTqCniT-5aQBgEh4yWY-YGMKLf4PGpw9dnJz9u52Gpv9DtjlwQ2iYftT2mLVCZqgZODfG94JuwrPjVwkC8IPlFD0EjgsgZbGNHZV8Onjng_7oi0JPnIUU5NknmkZCxmiyYjaca53X8wWele6ohstRDXOxlUnyKCzO_Jze7f1o7Lw2Li_gN8SihfHRwuJaRG7Xij-eVtjGW4TqX9xXLL6iADPqUS6SnCU5Jx3KnQ0eznBzyhL4c8tiBKMx-2oHyobQRFQG2jDHBee01IRLDr-L8zfVHwQn1h7o-9wTCeWPBf7rlGqLujVUpTEFxsEq0mlY4DEWecoCxz-jgDC8TME2RoM3-wMucSD1MD0AI4qIAEqCWV1LXdlc3QtMTCHAw.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",twitch
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CvAEFS0Ux1Va4sHxfRzNqIvUwcq25TKM8EhD_t4x-8sh5dkz3yneIp988ny14uPktm-cY-Qw9UfoBJ1Eprb7Qo5pOMbU7_sx0ZO14MDwwVlSk69WyIHS_maYyWy_Th8Uq9qO2ZsPYYozGsPcBAi4rTDdcmjvmM3VXg0mXnDAM1ZdUANr-D25zKX0bGnTZXz4aw1IE2EBSsV8sb3KA-d1YaedOocc17t1sbOq-h9CD4XM_OOHmwjUtixBdUopXsKI8W8ACXiOI1eggT0NeCXy8rvayhkzp19YBFudqCZbsLaFkfdL1PqDSW-Eqar37-eU1byqdWILcBbNSf8JHEi_5IelVuDR9zShw6kqbrMC6fzKQf8rmTh_WAiwuLk43XPR2hJe0P0vpg80Wtyxy_vamEgB4p9b1KBzJLHP9M_5udHWhYRYI7I8dYBGPUf0-5tV3ZJDTDcO7ktVNpqZz2tBTV0RwZ3j-oKLp6l-rOA7-TphccWNwJPIgRpXpa0qpTpG_6zoePEQ2V88WTr7yImBhJkt1qYBdlqXuT2ggf3gcEaIgZZ33QdDZVFHRuq2xnr2aVas2bFsvFmOGnYRPonAxU_6yYKzHMlPe32Olt_hHQhEF7WB8jkhi8QXqK9jDOsNbahVnHk0fnDBBPvDRsN_RMAcLNaR4e5FudIjPP3qY2POulQpGGawLylI18PgNtfHBd98Z82P-aF-HnMpZCAYXFbWEZFXRP1Hvn7yPOweWsR9o0sBFRKxzGrOxrgACaH6TTX-0nW8Li_Fom4R7zWMCP0OUQfCGOEf6CShmACaDCL7eN_n2v8XTbTxgwP1bmhKSHNdGgxiXs4FYGyBaZ9aiJEgASoJZXUtd2VzdC0yMMkK.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/7TaIrsi.png",DF1 HD
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",DF1 HD
 https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/fIl4jKC.jpg",DOKUSAT HD
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",DOKUSAT HD
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/jlXbjvx.png",bildTV
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",bildTV
 https://bild.personalstream.tv/v1/master.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/AsFpQtL.jpg",WackenTV
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",WackenTV
 http://streaming.magentamusik.de/csm/573871/magentamusik2/index.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/DD1JbZe.png",football-1-m3u
