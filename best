@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",twitch720p-1
-https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CuUEq--MbR4IYcyYnU6OL_WLcSv0KGV2dKCE0Vw1hqlM2x4-jnVvoGCcS8v8UnD6Yac3LSMm60_aLLVXZIjBUbBZ0qXIAQspaEQNifZ9LQpQdISeRQEI8osA627HurqRYxM2mPZXg9Z7gCA0UnrpS82bihRFHE7nMhoF7s8KD1Y6i8Yx4L9U1DS6nasrEKmM8BnY5GHgx3smxF9k8mRI4QC28M4uDAGsF-Al7b-TDgAs5Erba20pyzv1pmXBbh3SjoaCkwnGTiAzb3M9jAmdGbJRSMW6nYzgVT4Bk9LXKNzVff5fSL4O4PzlPyvu38_BVLEMy_N_ZqknA7BTQpnKq9_O0MxJjOoiu55StRPFcXBZdcT1YyHe1Fhy8-6Jy7q8mSyPQFRKz9669S4ZWpSmSG8HP8ZGhIWN05LKwEmx-GLHrW9HKHDlmpf6nE2wVeAraa1hA_8ftxKCMJJ1bbpUORHfCQ4VcbiURMJqZoBuh-nYG3J0_fuUsk440PhpQHwEl15heYdtVKUJJPM5-4qf5ONSBERZQ4rED_UOVLDPU7NHKgcPv3bRhkREsLpSbX9sDmY_1ohbRBgFkvyJQ6D5T39g4VioBGkcdkfY_SwZFztFOJaYScj0FEf9a9vtiCrRWNb1oCQ9JXD5WXEUtd7XN9HSWtnWSIau8yJh1-bqc4xs2GdBODIrkQ4roy6i_LXpeO7xDOGoQcuUwrBAzva7RIVTij0tqEUQRsQI16qQbTTgPexCDJKbzW6VZe_Iv7xZp_7RgXPDpF2oKHOlmI3RvfXqV68iX07siZDTIjNwGizD7mgDt6tXYRoMGSeeJm47oojcAz6LIAEqCWV1LXdlc3QtMjDJCg.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",twitch
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CuAEXJQoVTG2tM4ccAnZ-RdaNvkDFKu37B1vndjPIpaDnc2oDEGsrog9hQRDMWDRgs6GJC2zQ7hvhU5o3e8PoKRQd2bIcKRNSUY-RzrNkSW-uBBE4wXdYwmkSxWhVj82rSq79XbvVNy-tbov-4iWFxkUnYqV0BMp1Tz6uCrcSutHtVpoyEdFsRaZr4deDojBqFPLH3ZTrzyZHfN8zgcYgBdGEDrWXYhIPO1C2QCRxUiIn52kvJnmZtgHc9d2UDbeHIm7_f8kn1fxL_eaYduiwr3YmrkfbAYYWUxECQ9RUKe8pSQwqyDVN2-4GsCe1L11snrtxveS-anZgP9V6DRPazWgezB3gq2GNlIsPPSRf4AqQOFRCfAKLswsPg7B7tkOJ0n2854pogLmjgm4wJOQgm-dQSWJNhX_gbhZVavMjeoTlGiJm3YTKQO2Sz9ITQ1R9Zuyoec8u37clCgjcdrgcgfIEMxhmbIPhZSpqCL2YfjW7mAosyEZReJW_gG7o-tVpkIDeYq0p9WbArcTt1Xif14JVl2PssaMiAH7BQYQ6gw4z8oBgLblFDBwKBsmXqvqdSw2J8vnJK1z9xEvuHIBam8lcRN9oygvSu6BKDEWFOSXBmST_8ocp8KBQOeBFN-U82-bS-WzJfVWwwdnZtit2YLtsFYmdk2IlKl4nrtJDjR3JOFuaKkKr3Ef6yJSrIaNZYSHrhDgPUDIIKvupnD6GRQPrdu0x9rOvKTG_7rC2QB4rHtpeMXlnyHz_sxGh965FjvheI5ULHCkQNYoxkQ70uUCadTWg-MnxdBfB4PFmQ6amCEaDISuqL4kQxBlDxKt_CABKglldS13ZXN0LTIw2go.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",DF1 HD
 https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
@@ -15,7 +15,7 @@ https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",WackenTV
 http://streaming.magentamusik.de/csm/573871/magentamusik2/index.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/DD1JbZe.png",football-1-m3u
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",football-1-m3u
 http://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1670197583-0-0-4a7cf225505176ec3e943f0a07a3293f
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/c8fKUas.png",PRO7
