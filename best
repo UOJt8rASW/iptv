@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",twitch
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CuAEXJQoVTG2tM4ccAnZ-RdaNvkDFKu37B1vndjPIpaDnc2oDEGsrog9hQRDMWDRgs6GJC2zQ7hvhU5o3e8PoKRQd2bIcKRNSUY-RzrNkSW-uBBE4wXdYwmkSxWhVj82rSq79XbvVNy-tbov-4iWFxkUnYqV0BMp1Tz6uCrcSutHtVpoyEdFsRaZr4deDojBqFPLH3ZTrzyZHfN8zgcYgBdGEDrWXYhIPO1C2QCRxUiIn52kvJnmZtgHc9d2UDbeHIm7_f8kn1fxL_eaYduiwr3YmrkfbAYYWUxECQ9RUKe8pSQwqyDVN2-4GsCe1L11snrtxveS-anZgP9V6DRPazWgezB3gq2GNlIsPPSRf4AqQOFRCfAKLswsPg7B7tkOJ0n2854pogLmjgm4wJOQgm-dQSWJNhX_gbhZVavMjeoTlGiJm3YTKQO2Sz9ITQ1R9Zuyoec8u37clCgjcdrgcgfIEMxhmbIPhZSpqCL2YfjW7mAosyEZReJW_gG7o-tVpkIDeYq0p9WbArcTt1Xif14JVl2PssaMiAH7BQYQ6gw4z8oBgLblFDBwKBsmXqvqdSw2J8vnJK1z9xEvuHIBam8lcRN9oygvSu6BKDEWFOSXBmST_8ocp8KBQOeBFN-U82-bS-WzJfVWwwdnZtit2YLtsFYmdk2IlKl4nrtJDjR3JOFuaKkKr3Ef6yJSrIaNZYSHrhDgPUDIIKvupnD6GRQPrdu0x9rOvKTG_7rC2QB4rHtpeMXlnyHz_sxGh965FjvheI5ULHCkQNYoxkQ70uUCadTWg-MnxdBfB4PFmQ6amCEaDISuqL4kQxBlDxKt_CABKglldS13ZXN0LTIw2go.m3u8
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",DF1 HD
-https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",DF1 HD Neu
+https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",DOKUSAT HD
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
@@ -18,7 +18,7 @@ http://streaming.magentamusik.de/csm/573871/magentamusik2/index.m3u8
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",football-1-m3u
 http://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1670197583-0-0-4a7cf225505176ec3e943f0a07a3293f
 
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/c8fKUas.png",PRO7
+#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="",PRO7
 https://s6.hopslan.com/pro7q1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" tvg-logo="https://i.imgur.com/1TKeTk3.png",RTL
